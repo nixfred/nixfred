@@ -1,8 +1,8 @@
+### Hi there 👋
+
 # nixfred
 
-## 👋 Hi, I'm nixfred!
-
-### 🚀 About Me
+## 🚀 About Me
 Linux enthusiast, automation advocate, and developer passionate about creating efficient solutions for everyday computing challenges.
 
 ### 🛠️ Tech Stack
