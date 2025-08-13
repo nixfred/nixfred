@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# nixfred
-
 ## 🚀 About Me
 Linux enthusiast, automation advocate, and developer passionate about creating efficient solutions for everyday computing challenges.
 
