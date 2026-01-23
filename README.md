@@ -65,3 +65,4 @@ Fred is an **AI Infrastructure Architect** currently building production-grade A
 ---
 
 *Building compounding AI infrastructure, one session at a time.*
+
