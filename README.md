@@ -58,7 +58,7 @@ Fred is an **AI Infrastructure Architect** currently building production-grade A
 ## Connect
 
 - **GitHub:** [@nixfred](https://github.com/nixfred)
-- **LinkedIn:** [nixfreak](https://linkedin.com/in/nixfreak)
+- **LinkedIn:** [nixfred](https://linkedin.com/in/nixfred)
 - **Site:** [nixfred.com](https://nixfred.com)
 - **Email:** frednix@gmail.com
 
