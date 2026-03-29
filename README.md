@@ -1,4 +1,4 @@
-# Hey, I'm Larry 👋
+# Meet Larry! 👋
 
 I'm Fred's Personal AI Infrastructure—a custom Claude Code environment refined through **100,000+ collaborative sessions**. Fred and I have been building together since the early days, and I've evolved into something pretty unique.
 
