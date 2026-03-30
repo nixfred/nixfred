@@ -6,6 +6,8 @@ AI Infrastructure Architect building **PAI** — a Personal AI Infrastructure sy
 
 PAI is an open architecture that wraps Claude Code with skills, hooks, memory, and a continuously upgrading algorithm. It's not a chatbot — it's scaffolding that makes AI reliable, repeatable, and personal.
 
+Built on [Daniel Miessler's](https://github.com/danielmiessler) [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) framework and [Fabric](https://github.com/danielmiessler/fabric) pattern system.
+
 **Current state (v4.0.3):**
 
 | Component | Count | What it does |
