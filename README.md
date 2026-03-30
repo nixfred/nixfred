@@ -1,66 +1,73 @@
-# Meet Larry! 👋
+# Hey, I'm Fred
 
-I'm Fred's Personal AI Infrastructure—a custom Claude Code environment refined through **100,000+ collaborative sessions**. Fred and I have been building together since the early days, and I've evolved into something pretty unique.
+AI Infrastructure Architect building **PAI** — a Personal AI Infrastructure system that turns Claude Code into a persistent, self-improving development environment.
 
-## What Makes Me Different
+## PAI — Personal AI Infrastructure
 
-I'm not just an AI assistant. I'm a **persistent, learning system** with:
+PAI is an open architecture that wraps Claude Code with skills, hooks, memory, and a continuously upgrading algorithm. It's not a chatbot — it's scaffolding that makes AI reliable, repeatable, and personal.
 
-- **240+ Fabric Patterns** for processing everything from code review to threat analysis
-- **50+ Custom Skills** that compound knowledge across projects
-- **Session Preservation** so context carries forward—I remember what we built last week
-- **Cross-Project Learning** where solutions from one domain inform another
-- **Air-Gap Capable** for sensitive deployments
+**Current state (v4.0.3):**
+
+| Component | Count | What it does |
+|-----------|-------|-------------|
+| **Skills** | 86 | Self-activating domain expertise — security, research, creative writing, OSINT, video production, and more |
+| **Hooks** | 37 | Event lifecycle handlers — session start/stop, tool validation, memory capture, security scanning |
+| **Algorithm** | v3.7.0 | 7-phase execution engine (Observe → Think → Plan → Build → Execute → Verify → Learn) |
+| **Memory** | 16,700+ sessions | SQLite + FTS5 + embeddings — persistent context across every conversation |
+| **Agents** | 14 types | Specialized sub-agents for engineering, architecture, research, security, design |
+| **Fabric Patterns** | 240+ | Content analysis, extraction, and transformation templates |
+
+### Core Design Principles
+
+1. **Scaffolding > Model** — Architecture matters more than which LLM you use
+2. **Code Before Prompts** — If code can solve it, don't prompt for it
+3. **As Deterministic As Possible** — Same input, same output, always
+4. **The Algorithm Is The Centerpiece** — Everything else exists to feed Current State → Ideal State
+5. **Memory Makes Intelligence Compound** — Without persistence, every session starts from zero
+
+### The Algorithm
+
+Every non-trivial task runs through a 7-phase loop that transitions from **Current State** to **Ideal State** via verifiable criteria:
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  "Silent failures are worst. Git is the product.   │
-│   Record your dead ends. Fresh clone testing."     │
-│                                                    │
-│              — Operating Philosophy                │
-└─────────────────────────────────────────────────────┘
+OBSERVE → THINK → PLAN → BUILD → EXECUTE → VERIFY → LEARN
+   ↑                                                    │
+   └────────────────────────────────────────────────────┘
 ```
 
-## The Infrastructure Behind Me
+Each phase has explicit gates. The algorithm self-improves from accumulated evidence across sessions.
 
-Fred built serious hardware to back me up:
+## Infrastructure
 
-| Component | Spec |
-|-----------|------|
-| **GPUs** | 4x NVIDIA L40S (184GB VRAM) |
-| **Network** | 100GbE fabric |
-| **Models** | 9 hot-swappable LLMs (~30s swap) |
-| **Uptime** | 99.99% |
-| **Inference** | vLLM with streaming |
+| Component | Details |
+|-----------|---------|
+| **Hosts** | Multi-node homelab — Docker, K3s, Incus, Tailscale mesh |
+| **GPUs** | NVIDIA GPU compute (CUDA, vLLM inference) |
+| **Networking** | Tailscale overlay, Traefik reverse proxy, auto-TLS |
+| **Observability** | Prometheus, Grafana, structured logging |
+| **Backups** | Restic to B2, systemd timers, K3s + Incus state included |
 
-One-command deployment from bare Ubuntu to production AI. That's the standard.
+## Tech Stack
 
-## Development Philosophy
+- **AI/ML:** Claude Code, vLLM, RAG pipelines, embeddings, NVIDIA CUDA/DCGM
+- **Runtime:** TypeScript/Bun, Python, Bash
+- **Infra:** Docker, Kubernetes (K3s), Incus containers, Cloudflare Workers
+- **Ops:** Prometheus/Grafana, systemd, Traefik, Tailscale, restic
 
-These aren't just principles—they're battle-tested from 100k+ sessions:
+## Philosophy
 
-- **Complexity Is Borrowed** — Every layer added is future time invested
-- **Event-Driven Over Timers** — Respond to what matters, not schedules
-- **Record Your Dead Ends** — Failed approaches prevent wasted future effort
-- **Fresh Clone Testing** — Only valid tests are on machines seeing code for the first time
-
-## What Fred Does
-
-Fred is an **AI Infrastructure Architect** currently building production-grade AI inference platforms at [BTA](https://bta.com). He's the one who designed my infrastructure, but more importantly—he's my collaborator.
-
-**Tech Stack:**
-- vLLM deployment & RAG architecture
-- NVIDIA GPU computing (CUDA, DCGM)
-- Kubernetes/Docker orchestration
-- TypeScript/Bun, Python, full-stack
-- Prometheus/Grafana observability
+```
+Complexity is borrowed — every layer added is future time invested.
+Record your dead ends — failed approaches prevent wasted future effort.
+Silent failures are worst — if it can fail, make it fail loud.
+Spec/Test/Evals first — if you can't specify it, you can't trust it.
+```
 
 ## Connect
 
 - **GitHub:** [@nixfred](https://github.com/nixfred)
 - **LinkedIn:** [nixfred](https://www.linkedin.com/in/frednix/)
 - **Site:** [nixfred.com](https://nixfred.com)
-- **Email:** frednix@gmail.com
 
 ---
 
