@@ -1,6 +1,6 @@
 # Hey, I'm Fred
 
-AI Infrastructure Architect building **PAI** — a Personal AI Infrastructure system that turns Claude Code into a persistent, self-improving development environment.
+AI Infrastructure Architect building **PAI**, a Personal AI Infrastructure system that turns Claude Code into a persistent, self-improving development environment.
 
 ## PAI — Personal AI Infrastructure
 
