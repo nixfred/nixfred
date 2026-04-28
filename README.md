@@ -2,7 +2,7 @@
 
 AI Infrastructure Architect building **PAI**, a Personal AI Infrastructure system that turns Claude Code into a persistent, self-improving development environment.
 
-## PAI — Personal AI Infrastructure
+## PAI: Personal AI Infrastructure
 
 PAI is an open architecture that wraps Claude Code with skills, hooks, memory, and a continuously upgrading algorithm. It's not a chatbot — it's scaffolding that makes AI reliable, repeatable, and personal.
 
