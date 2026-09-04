@@ -4,7 +4,7 @@
 
 # Hey, I'm Fred
 
-### AI Infrastructure Architect. I build for Omarchy, with an AI that lives on it.
+### AI Infrastructure Architect. I build on Omarchy, with an AI that lives on it.
 
 <a href="https://github.com/nixfred?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/public%20repos-80%2B-7dd3fc?style=for-the-badge&labelColor=0a0d16"></a>
 <a href="https://omarchy.org"><img alt="Omarchy" src="https://img.shields.io/badge/desktop-Omarchy%20%2F%20Hyprland-c4b5fd?style=for-the-badge&labelColor=0a0d16"></a>
