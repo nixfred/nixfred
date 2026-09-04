@@ -24,9 +24,9 @@ Two obsessions, and they turned out to be the same one.
 
 They meet on one screen. The AI writes the plugins. The plugins report on the AI. Memory keeps the score so nothing gets built twice.
 
-That's my actual top bar:
+That's my actual bar, caught live — music playing, a local model on the GPU, Codex mid-session:
 
-<img src="assets/omarchy-bar.png" alt="A screenshot of Fred's real Omarchy top bar: workspaces, media, weather, date and time, agent widgets, an audio EQ, tray icons and battery" width="100%">
+<img src="assets/omarchy-bar.png" alt="Fred's real Omarchy top bar under load: workspaces, a live audio EQ driven by music actually playing, weather, date and time, agent and burn widgets lit by a local GPU model and running Codex sessions, tray icons and battery" width="100%">
 
 <img src="assets/the-loop.svg" alt="The compounding loop: intent, build, ship, measure, remember — evidence feeds the next intent" width="100%">
 
