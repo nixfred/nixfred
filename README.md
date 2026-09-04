@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/omarchy-ai-hero.svg" alt="Omarchy times AI — an Omarchy top bar above three pillars: the desktop, the collaborator, and the fleet" width="100%">
+<img src="assets/omarchy-ai-hero.svg" alt="Omarchy times AI — an Omarchy top bar above three pillars: the desktop I run, the AI collaborator, and the fleet" width="100%">
 
 # Hey, I'm Fred
 
-### AI Infrastructure Architect. I build a Linux desktop with an AI that lives on it.
+### AI Infrastructure Architect. I don't build the desktop — I build *for* it, with an AI that lives on it.
 
 <a href="https://github.com/nixfred?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/public%20repos-80%2B-7dd3fc?style=for-the-badge&labelColor=0a0d16"></a>
 <a href="https://omarchy.org"><img alt="Omarchy" src="https://img.shields.io/badge/desktop-Omarchy%20%2F%20Hyprland-c4b5fd?style=for-the-badge&labelColor=0a0d16"></a>
@@ -18,7 +18,7 @@
 
 Two things have eaten my life, and they turned out to be the same thing.
 
-The first is **[Omarchy](https://omarchy.org)** — DHH's opinionated Arch + Hyprland desktop — which I've turned into a workbench of my own bar plugins, forks, and upstream patches.
+The first is **[Omarchy](https://omarchy.org)** — DHH and Basecamp's opinionated Arch + Hyprland desktop. I didn't build it and I don't maintain it; I run it every day, and I build plugins, forks and patches *on top of* it. All the credit for the OS goes [upstream](https://github.com/basecamp/omarchy).
 
 The second is **PAI**, a Personal AI Infrastructure that wraps Claude Code in skills, hooks, memory, and a repeatable algorithm, so that an AI collaborator can hold context across months instead of minutes.
 
@@ -28,9 +28,9 @@ They converge on one screen. The AI writes the plugins. The plugins report on th
 
 ---
 
-## 🖥️ Part One — The Desktop
+## 🖥️ Part One — The Bar
 
-Omarchy ships a beautiful bar. I kept adding things to it until the bar became the operating surface: messages, cars, backups, Bluetooth, media, agents, weather, notifications. Every one of them is a real repo, MIT-ish, installable, theme-driven.
+Omarchy ships a beautiful bar. I kept adding things to it until the bar became my operating surface: messages, cars, backups, Bluetooth, media, agents, weather, notifications. Every one of them is a real repo, MIT-ish, installable, theme-driven.
 
 ### Built from scratch
 
@@ -53,11 +53,11 @@ Omarchy ships a beautiful bar. I kept adding things to it until the bar became t
 
 ### Forked, patched, and fed back upstream
 
-Half of desktop work is other people's code made to behave on your machine. These are the forks I maintain, patch, and contribute back from:
+These are **other people's projects**, credited to their authors. I keep forks so I can patch them for my machine and send the fixes back upstream:
 
 | Fork | Why |
 |---|---|
-| **[omarchy](https://github.com/nixfred/omarchy)** | The upstream itself — where patches get written before they become PRs. |
+| **[omarchy](https://github.com/nixfred/omarchy)** | My fork of [basecamp/omarchy](https://github.com/basecamp/omarchy) — where local patches get written before they become upstream PRs. |
 | **[omarchy-tesla](https://github.com/nixfred/omarchy-tesla)** | Your Tesla in the bar: where it is, how full it is, how far that gets you — without keeping the car awake. |
 | **[omarchy-weather](https://github.com/nixfred/omarchy-weather)** | Hourly, five-day, live radar and peek search. |
 | **[omarchy-notification-center](https://github.com/nixfred/omarchy-notification-center)** | Every notification you were sent, kept and readable again. |
@@ -74,7 +74,7 @@ Half of desktop work is other people's code made to behave on your machine. Thes
 
 > Also live on my bar but not yet cut loose as public repos: **Burn Bar** (a heat map of Claude / Codex / local Ollama spend), **Beatdeck** (EQ + media cockpit), **Pastey** (clipboard history with image thumbnails), **Apple Notes**, and **larry.status** (a face that changes mood with the state of my agents).
 
-### How one of these is actually built
+### How one of my plugins is put together
 
 <img src="assets/plugin-anatomy.svg" alt="Anatomy of an Omarchy bar plugin: manifest, QML widget, python3 backend, Hyprland, all driven by colors.toml" width="100%">
 

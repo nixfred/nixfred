@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="ht hd">
 <title id="ht">Omarchy multiplied by AI — Fred Nix</title>
-<desc id="hd">An Omarchy top bar rendered above a title reading OMARCHY x AI, with three pillars: a desktop built from plugins, an AI that builds them, and infrastructure that remembers.</desc>
+<desc id="hd">An Omarchy top bar rendered above a title reading OMARCHY x AI, with three pillars: the desktop Fred runs and extends with plugins, the AI collaborator that helps build them, and the infrastructure that remembers.</desc>
 <defs>
 <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0d16"/><stop offset=".55" stop-color="#0f1424"/><stop offset="1" stop-color="#161226"/></linearGradient>
 <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1b2135"/><stop offset="1" stop-color="#141926"/></linearGradient>
@@ -44,7 +44,7 @@
 
 <!-- title -->
 <text x="800" y="272" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="96" font-weight="800" fill="url(#title)" letter-spacing="2">OMARCHY × AI</text>
-<text x="800" y="322" text-anchor="middle" font-family="system-ui,sans-serif" font-size="25" fill="#8ba0c4">A Linux desktop built by an AI that lives on it.</text>
+<text x="800" y="322" text-anchor="middle" font-family="system-ui,sans-serif" font-size="25" fill="#8ba0c4">I don&#8217;t build the desktop. I build for it &#8212; with an AI that lives on it.</text>
 
 <!-- three pillars -->
 <g>
@@ -62,9 +62,9 @@
     <text x="1144" y="433">THE FLEET</text>
   </g>
   <g font-family="system-ui,sans-serif" fill="#8ba0c4" font-size="18">
-    <text x="130" y="480">Omarchy + Hyprland + Quickshell.</text>
-    <text x="130" y="508">A dozen original bar plugins:</text>
-    <text x="130" y="536">iMessage, Tesla, mirroring, clocks,</text>
+    <text x="130" y="480">Omarchy + Hyprland + Quickshell &#8212;</text>
+    <text x="130" y="508">not mine. The plugins are:</text>
+    <text x="130" y="536">iMessage, screen mirroring, clocks,</text>
     <text x="130" y="564">Bluetooth sonar, live wallpapers.</text>
 
     <text x="614" y="480">Claude Code wrapped in skills,</text>
