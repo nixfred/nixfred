@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/omarchy-ai-hero.svg" alt="Omarchy's logo mark and official wordmark joined to AI, over three pillars: the bar, the collaborator, and the fleet" width="100%">
+<img src="assets/omarchy-ai-hero.svg" alt="Fred's real Omarchy bar under load across the top, above Omarchy's logo mark and official wordmark joined to AI, over three pillars: the bar, the collaborator, and the fleet" width="100%">
 
 # Hey, I'm Fred
 
