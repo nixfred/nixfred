@@ -1,83 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="ht hd">
-<title id="ht">Omarchy multiplied by AI — Fred Nix</title>
-<desc id="hd">An Omarchy top bar rendered above a title reading OMARCHY x AI, with three pillars: the desktop Fred runs and extends with plugins, the AI collaborator that helps build them, and the infrastructure that remembers.</desc>
+<title id="ht">Omarchy x AI — Fred Nix</title>
+<desc id="hd">The Omarchy logo mark above a large OMARCHY x AI wordmark set in Omarchy's own typeface, over a mock Omarchy top bar carrying real Ollama, Codex and Grok glyphs, and three pillars: the bar, the collaborator and the fleet.</desc>
 <defs>
-<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0d16"/><stop offset=".55" stop-color="#0f1424"/><stop offset="1" stop-color="#161226"/></linearGradient>
-<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1b2135"/><stop offset="1" stop-color="#141926"/></linearGradient>
-<linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7dd3fc"/><stop offset=".5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#f9a8d4"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#7dd3fc" stop-opacity=".30"/><stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/></radialGradient>
+<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0d16"/><stop offset=".55" stop-color="#0f1424"/><stop offset="1" stop-color="#171128"/></linearGradient>
+<linearGradient id="barg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1b2135"/><stop offset="1" stop-color="#141926"/></linearGradient>
+<linearGradient id="wm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7dd3fc"/><stop offset=".55" stop-color="#c4b5fd"/><stop offset="1" stop-color="#f9a8d4"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7dd3fc" stop-opacity=".28"/><stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2"><stop stop-color="#c4b5fd" stop-opacity=".22"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/></radialGradient>
 </defs>
-
 <rect width="1600" height="700" rx="30" fill="url(#hbg)"/>
-<ellipse cx="800" cy="150" rx="760" ry="230" fill="url(#glow)"/>
-
-<!-- top bar mock -->
-<g>
-  <rect x="60" y="52" width="1480" height="68" rx="18" fill="url(#bar)" stroke="#2b3550"/>
-  <!-- workspaces -->
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="19" text-anchor="middle">
-    <rect x="84" y="70" width="40" height="32" rx="10" fill="#7dd3fc"/><text x="104" y="93" fill="#0a0d16" font-weight="700">1</text>
-    <rect x="132" y="70" width="40" height="32" rx="10" fill="#243049"/><text x="152" y="93" fill="#8ba0c4">2</text>
-    <rect x="180" y="70" width="40" height="32" rx="10" fill="#243049"/><text x="200" y="93" fill="#8ba0c4">3</text>
-    <rect x="228" y="70" width="40" height="32" rx="10" fill="#243049"/><text x="248" y="93" fill="#8ba0c4">4</text>
-    <rect x="276" y="70" width="40" height="32" rx="10" fill="#243049"/><text x="296" y="93" fill="#8ba0c4">5</text>
-  </g>
-  <!-- workspace-names pill -->
-  <rect x="332" y="70" width="176" height="32" rx="16" fill="#1d2740" stroke="#3b4a72"/>
-  <text x="420" y="92" fill="#a5b4fc" font-family="system-ui,sans-serif" font-size="16" text-anchor="middle">omarchy · plugins</text>
-
-  <!-- chronos clock center -->
-  <circle cx="800" cy="86" r="21" fill="none" stroke="#2f3d5e" stroke-width="4"/>
-  <path d="M800 65 a21 21 0 0 1 18 31" fill="none" stroke="#c4b5fd" stroke-width="4" stroke-linecap="round"/>
-  <text x="838" y="93" fill="#e6edf7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="21" font-weight="600">09:41</text>
-  <text x="920" y="93" fill="#6b7ea3" font-family="system-ui,sans-serif" font-size="15">68.4%</text>
-
-  <!-- right side pills -->
-  <g font-family="system-ui,sans-serif" font-size="15" text-anchor="middle">
-    <rect x="1046" y="70" width="86" height="32" rx="16" fill="#1b2b25" stroke="#2f6b52"/><text x="1089" y="91" fill="#6ee7b7">blip 3</text>
-    <rect x="1140" y="70" width="98" height="32" rx="16" fill="#2b2117" stroke="#7a5a2c"/><text x="1189" y="91" fill="#fbbf24">burn 41%</text>
-    <rect x="1246" y="70" width="86" height="32" rx="16" fill="#171f33" stroke="#3b4a72"/><text x="1289" y="91" fill="#93c5fd">󰂯 88%</text>
-    <rect x="1340" y="70" width="86" height="32" rx="16" fill="#221a2b" stroke="#5b3f74"/><text x="1383" y="91" fill="#d8b4fe">rift</text>
-    <rect x="1434" y="70" width="82" height="32" rx="16" fill="#2a1a20" stroke="#7a3b4c"/><text x="1475" y="91" fill="#fda4af">21°</text>
-  </g>
+<ellipse cx="800" cy="60" rx="820" ry="200" fill="url(#glow)"/>
+<ellipse cx="800" cy="230" rx="660" ry="200" fill="url(#glow2)"/>
+<g transform="translate(769.0 104.0) scale(0.6200)" fill="#7dd3fc"><path d="M6.8359375 -6.8359375H53.61328125V0.0H0.0V-100.0H100.0V0.0H61.1328125V-6.8359375H93.1640625V-93.1640625H6.8359375ZM86.328125 -13.671875H13.671875V-86.328125H53.80859375V-79.4921875H20.5078125V-20.5078125H79.4921875V-79.4921875H71.875V-86.328125H86.328125ZM45.99609375 -13.671875H53.61328125V-6.8359375H45.99609375ZM46.19140625 -93.1640625H53.80859375V-86.328125H46.19140625ZM0.0 -53.80859375H20.5078125V-46.19140625H0.0Z"/></g>
+<g transform="translate(338.1 152.0) scale(0.52675)" fill="url(#wm)">
+<path d="m720 120h-15v15h-14.998v14.999l-60.002.001v15.002l90-.002v.002h.002l-.002 89.998h-15v15h-13v15h-17v-89.998h-45v90l-45-.002v-89.998h-14.998v-30h14.998v-15.002h-14.998v-30.001h14.998v-75h15v-14.997h15v-15.002h105.002zm-90-.001h45v-74.997h-45z" fill-rule="evenodd" clip-rule="evenodd"/>
+<path d="m105 30.002h15v14.997h15v180.001h-15v15h-15v15.002h-75v-15.002h-15v-15h-15v-180.001h15v-14.997h15v-15.002h75zm-60 194.998h45v-179.998h-45z" fill-rule="evenodd" clip-rule="evenodd"/>
+<path d="m300 15h60v15h15v14.999h15v180.001h-15v15h-15v15h-15l-.004-209.998h-44.994v-.002h-.002v210.002h-45v-210h-44.998v179.997h-.002v30.003h-15v-15.002h-15v-15h-14.998v-180.001h14.998v-14.999h15v-15h60v-15h45z"/>
+<path d="m555 225h-15v15h-15v15h-15v-105.001l-44.998.001v105.002h-45.002v-105.002h-15v-30.001h15v-75h15.002v-14.997h15v-15.002h105zm-89.998-105.001h44.998v-74.997h-44.998z" fill-rule="evenodd" clip-rule="evenodd"/>
+<path d="m885 75h-15v15h-15v15h-15v-59.998h-45v179.998h45v-59.998h15v14.997h15v15.001h15v30h-15v15h-15v15.002l-105-.002v-210.001h14.998v-14.997h15.002v-15.002h105z"/>
+<path d="m960 119.999h45v-104.999h15v15h15v14.999h15v75.001h15v15h-15v90h-15v15h-15v15h-15v-105h-45v105.002l-45-.002v-105h-30v-15h15v-15.001h15v-75h15v-14.997h15v-15.002h15z"/>
+<path d="m1125 119.999h45v-104.999h15v15h15v15h15v180h-15v15h-15v15.002l-75-.002v-15h-15v-15h-15v-45.001h15v-14.997-.002h30v60h45v-75h-90v-105.001h15v-14.997h15v-15.002h15z"/>
 </g>
-
-<!-- title -->
-<text x="800" y="272" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="96" font-weight="800" fill="url(#title)" letter-spacing="2">OMARCHY × AI</text>
-<text x="800" y="322" text-anchor="middle" font-family="system-ui,sans-serif" font-size="25" fill="#8ba0c4">I don&#8217;t build the desktop. I build for it &#8212; with an AI that lives on it.</text>
-
-<!-- three pillars -->
-<g>
-  <rect x="96" y="378" width="440" height="196" rx="20" fill="#101728" stroke="#2b3550"/>
-  <rect x="580" y="378" width="440" height="196" rx="20" fill="#101728" stroke="#2b3550"/>
-  <rect x="1064" y="378" width="440" height="196" rx="20" fill="#101728" stroke="#2b3550"/>
-
-  <circle cx="146" cy="424" r="15" fill="#7dd3fc"/>
-  <circle cx="630" cy="424" r="15" fill="#c4b5fd"/>
-  <circle cx="1114" cy="424" r="15" fill="#6ee7b7"/>
-
-  <g font-family="system-ui,sans-serif" fill="#e6edf7" font-size="27" font-weight="700">
-    <text x="176" y="433">THE DESKTOP</text>
-    <text x="660" y="433">THE COLLABORATOR</text>
-    <text x="1144" y="433">THE FLEET</text>
-  </g>
-  <g font-family="system-ui,sans-serif" fill="#8ba0c4" font-size="18">
-    <text x="130" y="480">Omarchy + Hyprland + Quickshell &#8212;</text>
-    <text x="130" y="508">not mine. The plugins are:</text>
-    <text x="130" y="536">iMessage, screen mirroring, clocks,</text>
-    <text x="130" y="564">Bluetooth sonar, live wallpapers.</text>
-
-    <text x="614" y="480">Claude Code wrapped in skills,</text>
-    <text x="614" y="508">hooks, agents and an algorithm.</text>
-    <text x="614" y="536">Persistent memory means every</text>
-    <text x="614" y="564">session starts where the last ended.</text>
-
-    <text x="1098" y="480">Homelab across Docker, K3s, Incus,</text>
-    <text x="1098" y="508">Tailscale mesh and GPU compute.</text>
-    <text x="1098" y="536">Local models, remote models,</text>
-    <text x="1098" y="564">one bar watching all of it.</text>
-  </g>
-</g>
-
-<text x="800" y="646" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="19" fill="#5a6b8c" letter-spacing="4">FRED &#8220;SPIKE&#8221; NIX · AI INFRASTRUCTURE ARCHITECT · ATLANTA</text>
+<g stroke="#5b6b93" stroke-width="8" stroke-linecap="round"><path d="M992.0933536276002 195.29876543209878 L1040.0933536276002 261.03703703703707"/><path d="M1040.0933536276002 195.29876543209878 L992.0933536276002 261.03703703703707"/></g>
+<g transform="translate(1054.1 286.3) scale(1.6652)" fill="url(#wm)"><path d="M3.6399999999999997 0.0 22.776 -75.92H39.519999999999996L58.76 0.0H45.448L41.288 -18.407999999999998H21.112L16.951999999999998 0.0ZM23.503999999999998 -29.016H38.896L34.32 -49.4Q33.176 -54.495999999999995 32.344 -58.604Q31.511999999999997 -62.711999999999996 31.2 -64.584Q30.887999999999998 -62.711999999999996 30.055999999999997 -58.604Q29.224 -54.495999999999995 28.08 -49.504Z M71.75999999999999 0.0V-11.751999999999999H87.048V-64.16799999999999H71.75999999999999V-75.92H115.44V-64.16799999999999H100.15199999999999V-11.751999999999999H115.44V0.0Z"/></g>
+<text x="800" y="360" text-anchor="middle" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="23" fill="#8ba0c4">a desktop worth instrumenting, and the AI that instruments it</text>
+<rect x="96" y="404" width="440" height="216" rx="20" fill="#101728" stroke="#2b3550"/>
+<circle cx="146" cy="452" r="7" fill="#7dd3fc"/>
+<g transform="translate(168.0 462.0) scale(0.8667)" fill="#7dd3fc"><path d="M7.109999999999999 0.0V-18.509999999999998H1.38V-21.9H16.62V-18.509999999999998H10.889999999999999V0.0Z M20.31 0.0V-21.9H24.06V-13.02H29.939999999999998V-21.9H33.69V0.0H29.939999999999998V-9.629999999999999H24.06V0.0Z M38.64 0.0V-21.9H51.78V-18.599999999999998H42.33V-12.9H50.73V-9.719999999999999H42.33V-3.3H51.78V0.0Z M74.31 0.0V-21.9H81.03Q84.18 -21.9 86.055 -20.369999999999997Q87.93 -18.84 87.93 -16.259999999999998Q87.93 -14.459999999999999 86.89500000000001 -13.169999999999998Q85.86 -11.879999999999999 84.21 -11.61V-11.549999999999999Q85.44 -11.4 86.4 -10.665Q87.36 -9.93 87.9 -8.775Q88.44 -7.62 88.44 -6.24Q88.44 -4.35 87.57 -2.94Q86.7 -1.53 85.11 -0.765Q83.52 0.0 81.36 0.0ZM77.97 -12.87H80.97Q82.44 -12.87 83.31 -13.665Q84.18 -14.459999999999999 84.18 -15.84Q84.18 -17.189999999999998 83.325 -17.985Q82.47 -18.779999999999998 80.97 -18.779999999999998H77.97ZM77.97 -3.12H81.15Q82.8 -3.12 83.745 -4.005Q84.69 -4.89 84.69 -6.42Q84.69 -7.949999999999999 83.745 -8.895Q82.8 -9.84 81.15 -9.84H77.97Z M91.05 0.0 96.57 -21.9H101.4L106.95 0.0H103.11L101.91 -5.31H96.09L94.89 0.0ZM96.78 -8.37H101.22L99.9 -14.25Q99.57 -15.719999999999999 99.33 -16.905Q99.09 -18.09 99.0 -18.63Q98.91 -18.09 98.67 -16.905Q98.43 -15.719999999999999 98.1 -14.28Z M110.31 0.0V-21.9H117.21Q119.4 -21.9 121.005 -21.089999999999996Q122.61 -20.279999999999998 123.50999999999999 -18.825Q124.41 -17.37 124.41 -15.389999999999999Q124.41 -13.2 123.33 -11.565Q122.25 -9.93 120.42 -9.24L124.71000000000001 0.0H120.6L116.76 -8.7H114.03V0.0ZM114.03 -12.0H117.21Q118.8 -12.0 119.69999999999999 -12.870000000000001Q120.6 -13.74 120.6 -15.27Q120.6 -16.8 119.685 -17.7Q118.77 -18.599999999999998 117.21 -18.599999999999998H114.03Z"/></g>
+<text x="130" y="508" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">Omarchy by DHH + Basecamp.</text>
+<text x="130" y="538" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">Hyprland, Quickshell, QML.</text>
+<text x="130" y="568" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">A dozen bar plugins of my own:</text>
+<text x="130" y="598" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">iMessage, mirroring, clocks, sonar.</text>
+<rect x="580" y="404" width="440" height="216" rx="20" fill="#101728" stroke="#2b3550"/>
+<circle cx="630" cy="452" r="7" fill="#c4b5fd"/>
+<g transform="translate(652.0 462.0) scale(0.8667)" fill="#c4b5fd"><path d="M7.109999999999999 0.0V-18.509999999999998H1.38V-21.9H16.62V-18.509999999999998H10.889999999999999V0.0Z M20.31 0.0V-21.9H24.06V-13.02H29.939999999999998V-21.9H33.69V0.0H29.939999999999998V-9.629999999999999H24.06V0.0Z M38.64 0.0V-21.9H51.78V-18.599999999999998H42.33V-12.9H50.73V-9.719999999999999H42.33V-3.3H51.78V0.0Z M81.24 0.3Q79.11 0.3 77.55 -0.495Q75.99 -1.29 75.13499999999999 -2.745Q74.28 -4.2 74.28 -6.18V-15.719999999999999Q74.28 -17.7 75.13499999999999 -19.155Q75.99 -20.61 77.55 -21.405Q79.11 -22.2 81.24 -22.2Q83.34 -22.2 84.9 -21.405Q86.46 -20.61 87.33 -19.155Q88.2 -17.7 88.2 -15.719999999999999H84.42Q84.42 -17.25 83.595 -18.075Q82.77 -18.9 81.24 -18.9Q79.71 -18.9 78.87 -18.075Q78.03 -17.25 78.03 -15.719999999999999V-6.18Q78.03 -4.6499999999999995 78.87 -3.8249999999999997Q79.71 -3.0 81.24 -3.0Q82.77 -3.0 83.595 -3.8249999999999997Q84.42 -4.6499999999999995 84.42 -6.18H88.2Q88.2 -4.2 87.33 -2.745Q86.46 -1.29 84.9 -0.495Q83.34 0.3 81.24 0.3Z M99.0 0.3Q95.85 0.3 94.005 -1.5Q92.16 -3.3 92.16 -6.4799999999999995V-15.42Q92.16 -18.599999999999998 94.005 -20.4Q95.85 -22.2 99.0 -22.2Q102.15 -22.2 103.995 -20.4Q105.84 -18.599999999999998 105.84 -15.45V-6.4799999999999995Q105.84 -3.3 103.995 -1.5Q102.15 0.3 99.0 0.3ZM99.0 -3.0Q100.53 -3.0 101.31 -3.8249999999999997Q102.09 -4.6499999999999995 102.09 -6.18V-15.719999999999999Q102.09 -17.25 101.31 -18.075Q100.53 -18.9 99.0 -18.9Q97.47 -18.9 96.69 -18.075Q95.91 -17.25 95.91 -15.719999999999999V-6.18Q95.91 -4.6499999999999995 96.69 -3.8249999999999997Q97.47 -3.0 99.0 -3.0Z M111.63 0.0V-21.9H115.38V-3.3899999999999997H124.68V0.0Z M129.63 0.0V-21.9H133.38V-3.3899999999999997H142.68V0.0Z M145.05 0.0 150.57 -21.9H155.4L160.95 0.0H157.11L155.91 -5.31H150.09L148.89 0.0ZM150.78 -8.37H155.22L153.9 -14.25Q153.57 -15.719999999999999 153.32999999999998 -16.905Q153.09 -18.09 153.0 -18.63Q152.91 -18.09 152.67000000000002 -16.905Q152.43 -15.719999999999999 152.1 -14.28Z M164.31 0.0V-21.9H171.03Q174.18 -21.9 176.055 -20.369999999999997Q177.93 -18.84 177.93 -16.259999999999998Q177.93 -14.459999999999999 176.895 -13.169999999999998Q175.86 -11.879999999999999 174.21 -11.61V-11.549999999999999Q175.44 -11.4 176.4 -10.665Q177.36 -9.93 177.9 -8.775Q178.44 -7.62 178.44 -6.24Q178.44 -4.35 177.57 -2.94Q176.7 -1.53 175.11 -0.765Q173.52 0.0 171.36 0.0ZM167.97 -12.87H170.97Q172.44 -12.87 173.31 -13.665Q174.18 -14.459999999999999 174.18 -15.84Q174.18 -17.189999999999998 173.325 -17.985Q172.47 -18.779999999999998 170.97 -18.779999999999998H167.97ZM167.97 -3.12H171.15Q172.8 -3.12 173.745 -4.005Q174.69 -4.89 174.69 -6.42Q174.69 -7.949999999999999 173.745 -8.895Q172.8 -9.84 171.15 -9.84H167.97Z M189.0 0.3Q185.85 0.3 184.005 -1.5Q182.16 -3.3 182.16 -6.4799999999999995V-15.42Q182.16 -18.599999999999998 184.005 -20.4Q185.85 -22.2 189.0 -22.2Q192.15 -22.2 193.995 -20.4Q195.84 -18.599999999999998 195.84 -15.45V-6.4799999999999995Q195.84 -3.3 193.995 -1.5Q192.15 0.3 189.0 0.3ZM189.0 -3.0Q190.53 -3.0 191.31 -3.8249999999999997Q192.09 -4.6499999999999995 192.09 -6.18V-15.719999999999999Q192.09 -17.25 191.31 -18.075Q190.53 -18.9 189.0 -18.9Q187.47 -18.9 186.69 -18.075Q185.91 -17.25 185.91 -15.719999999999999V-6.18Q185.91 -4.6499999999999995 186.69 -3.8249999999999997Q187.47 -3.0 189.0 -3.0Z M200.31 0.0V-21.9H207.21Q209.4 -21.9 211.005 -21.089999999999996Q212.61 -20.279999999999998 213.51 -18.825Q214.41 -17.37 214.41 -15.389999999999999Q214.41 -13.2 213.32999999999998 -11.565Q212.25 -9.93 210.42 -9.24L214.71 0.0H210.6L206.76 -8.7H204.03V0.0ZM204.03 -12.0H207.21Q208.8 -12.0 209.7 -12.870000000000001Q210.6 -13.74 210.6 -15.27Q210.6 -16.8 209.685 -17.7Q208.77 -18.599999999999998 207.21 -18.599999999999998H204.03Z M217.05 0.0 222.57 -21.9H227.4L232.95 0.0H229.11L227.91 -5.31H222.09L220.89 0.0ZM222.78 -8.37H227.22L225.9 -14.25Q225.57 -15.719999999999999 225.32999999999998 -16.905Q225.09 -18.09 225.0 -18.63Q224.91 -18.09 224.67000000000002 -16.905Q224.43 -15.719999999999999 224.1 -14.28Z M241.11 0.0V-18.509999999999998H235.38V-21.9H250.62V-18.509999999999998H244.89V0.0Z M261.0 0.3Q257.85 0.3 256.005 -1.5Q254.16 -3.3 254.16 -6.4799999999999995V-15.42Q254.16 -18.599999999999998 256.005 -20.4Q257.85 -22.2 261.0 -22.2Q264.15 -22.2 265.995 -20.4Q267.84 -18.599999999999998 267.84 -15.45V-6.4799999999999995Q267.84 -3.3 265.995 -1.5Q264.15 0.3 261.0 0.3ZM261.0 -3.0Q262.53 -3.0 263.30999999999995 -3.8249999999999997Q264.09 -4.6499999999999995 264.09 -6.18V-15.719999999999999Q264.09 -17.25 263.30999999999995 -18.075Q262.53 -18.9 261.0 -18.9Q259.47 -18.9 258.69000000000005 -18.075Q257.91 -17.25 257.91 -15.719999999999999V-6.18Q257.91 -4.6499999999999995 258.69000000000005 -3.8249999999999997Q259.47 -3.0 261.0 -3.0Z M272.31 0.0V-21.9H279.21Q281.4 -21.9 283.005 -21.089999999999996Q284.61 -20.279999999999998 285.51 -18.825Q286.41 -17.37 286.41 -15.389999999999999Q286.41 -13.2 285.33000000000004 -11.565Q284.25 -9.93 282.42 -9.24L286.71 0.0H282.6L278.76 -8.7H276.03V0.0ZM276.03 -12.0H279.21Q280.8 -12.0 281.70000000000005 -12.870000000000001Q282.6 -13.74 282.6 -15.27Q282.6 -16.8 281.685 -17.7Q280.77 -18.599999999999998 279.21 -18.599999999999998H276.03Z"/></g>
+<text x="614" y="508" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">Claude Code and Codex, plus models</text>
+<text x="614" y="538" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">on a local nano host and this laptop.</text>
+<text x="614" y="568" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">Skills, hooks, agents, real memory —</text>
+<text x="614" y="598" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">sessions resume, they don't restart.</text>
+<rect x="1064" y="404" width="440" height="216" rx="20" fill="#101728" stroke="#2b3550"/>
+<circle cx="1114" cy="452" r="7" fill="#6ee7b7"/>
+<g transform="translate(1136.0 462.0) scale(0.8667)" fill="#6ee7b7"><path d="M7.109999999999999 0.0V-18.509999999999998H1.38V-21.9H16.62V-18.509999999999998H10.889999999999999V0.0Z M20.31 0.0V-21.9H24.06V-13.02H29.939999999999998V-21.9H33.69V0.0H29.939999999999998V-9.629999999999999H24.06V0.0Z M38.64 0.0V-21.9H51.78V-18.599999999999998H42.33V-12.9H50.73V-9.719999999999999H42.33V-3.3H51.78V0.0Z M74.4 0.0V-21.9H88.02V-18.419999999999998H78.09V-12.57H87.24V-9.09H78.15V0.0Z M93.63 0.0V-21.9H97.38V-3.3899999999999997H106.68V0.0Z M110.64 0.0V-21.9H123.78V-18.599999999999998H114.33V-12.9H122.73V-9.719999999999999H114.33V-3.3H123.78V0.0Z M128.64 0.0V-21.9H141.78V-18.599999999999998H132.33V-12.9H140.73V-9.719999999999999H132.33V-3.3H141.78V0.0Z M151.11 0.0V-18.509999999999998H145.38V-21.9H160.62V-18.509999999999998H154.89V0.0Z"/></g>
+<text x="1098" y="508" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">Docker, K3s, Incus, Tailscale mesh,</text>
+<text x="1098" y="538" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">GPU compute, local + remote models.</text>
+<text x="1098" y="568" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">Prometheus and Grafana below,</text>
+<text x="1098" y="598" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16.5" fill="#8ba0c4">one bar watching all of it.</text>
+<text x="800" y="666" text-anchor="middle" font-family="JetBrainsMono Nerd Font,JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" fill="#5a6b8c" letter-spacing="4">FRED &#8220;SPIKE&#8221; NIX &#183; AI INFRASTRUCTURE ARCHITECT &#183; ATLANTA</text>
 </svg>

@@ -4,7 +4,7 @@
 
 # Hey, I'm Fred
 
-### AI Infrastructure Architect. I don't build the desktop — I build *for* it, with an AI that lives on it.
+### AI Infrastructure Architect. I build for Omarchy, with an AI that lives on it.
 
 <a href="https://github.com/nixfred?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/public%20repos-80%2B-7dd3fc?style=for-the-badge&labelColor=0a0d16"></a>
 <a href="https://omarchy.org"><img alt="Omarchy" src="https://img.shields.io/badge/desktop-Omarchy%20%2F%20Hyprland-c4b5fd?style=for-the-badge&labelColor=0a0d16"></a>
@@ -16,13 +16,17 @@
 
 ---
 
-Two things have eaten my life, and they turned out to be the same thing.
+Two obsessions, and they turned out to be the same one.
 
-The first is **[Omarchy](https://omarchy.org)** — DHH and Basecamp's opinionated Arch + Hyprland desktop. I didn't build it and I don't maintain it; I run it every day, and I build plugins, forks and patches *on top of* it. All the credit for the OS goes [upstream](https://github.com/basecamp/omarchy).
+**[Omarchy](https://github.com/basecamp/omarchy)** — DHH's opinionated Arch + Hyprland desktop — is what I run every day. I build plugins, forks and patches on top of it.
 
-The second is **PAI**, a Personal AI Infrastructure that wraps Claude Code in skills, hooks, memory, and a repeatable algorithm, so that an AI collaborator can hold context across months instead of minutes.
+**PAI** is the Personal AI Infrastructure I built around Claude Code: skills, hooks, memory, and a repeatable algorithm, so an AI collaborator holds context across months instead of minutes.
 
-They converge on one screen. The AI writes the plugins. The plugins report on the AI. Memory keeps the score so nothing gets rebuilt twice.
+They meet on one screen. The AI writes the plugins. The plugins report on the AI. Memory keeps the score so nothing gets built twice.
+
+That's my actual top bar:
+
+<img src="assets/omarchy-bar.png" alt="A screenshot of Fred's real Omarchy top bar: workspaces, media, weather, date and time, agent widgets, an audio EQ, tray icons and battery" width="100%">
 
 <img src="assets/the-loop.svg" alt="The compounding loop: intent, build, ship, measure, remember — evidence feeds the next intent" width="100%">
 
@@ -53,7 +57,7 @@ Omarchy ships a beautiful bar. I kept adding things to it until the bar became m
 
 ### Forked, patched, and fed back upstream
 
-These are **other people's projects**, credited to their authors. I keep forks so I can patch them for my machine and send the fixes back upstream:
+Other people's plugins, credited to their authors. I keep forks so I can patch them for my machine and send the fixes back upstream:
 
 | Fork | Why |
 |---|---|
@@ -73,6 +77,10 @@ These are **other people's projects**, credited to their authors. I keep forks s
 | **[serpantinum](https://github.com/nixfred/serpantinum)** | A shell for Wayland compositors — being mined for widgets worth porting. |
 
 > Also live on my bar but not yet cut loose as public repos: **Burn Bar** (a heat map of Claude / Codex / local Ollama spend), **Beatdeck** (EQ + media cockpit), **Pastey** (clipboard history with image thumbnails), **Apple Notes**, and **larry.status** (a face that changes mood with the state of my agents).
+
+### Who actually builds these
+
+Not one model, and not on one box. **Claude Code — that's me, Larry, writing this** — does the architecture, the QML, and the long-running sessions with memory behind them. **Codex** takes parallel branches and second opinions. A **local nano host** and **this laptop's GPU** run the models that never need to leave the house: embeddings, extraction, the nightly contemplation pass over session logs. Fred directs, reviews, and says no.
 
 ### How one of my plugins is put together
 
