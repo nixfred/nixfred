@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="pt pd">
+<title id="pt">Anatomy of an Omarchy bar plugin</title>
+<desc id="pd">Layers of an Omarchy plugin: Hyprland compositor at the base, Quickshell rendering QML widgets, a plugin manifest, a python3 backend polling data, and the theme palette from colors.toml feeding every layer.</desc>
+<rect width="1600" height="560" rx="26" fill="#0a0d16"/>
+<text x="64" y="66" font-family="system-ui,sans-serif" font-size="26" font-weight="700" fill="#e6edf7">ANATOMY OF A BAR PLUGIN</text>
+<text x="64" y="98" font-family="system-ui,sans-serif" font-size="17" fill="#7b8db1">No bun, no node. python3 and QML — because those are the two things every Omarchy box already has.</text>
+
+<g font-family="system-ui,sans-serif">
+  <rect x="64" y="132" width="1024" height="76" rx="14" fill="#131b2e" stroke="#f9a8d4"/>
+  <text x="92" y="168" font-size="20" font-weight="700" fill="#f9a8d4">manifest</text>
+  <text x="92" y="194" font-size="16" fill="#8ba0c4">plugin.json — id, version, entry widget. If the id is not registered, the service dies silently.</text>
+
+  <rect x="64" y="224" width="1024" height="76" rx="14" fill="#131b2e" stroke="#c4b5fd"/>
+  <text x="92" y="260" font-size="20" font-weight="700" fill="#c4b5fd">QML widget</text>
+  <text x="92" y="286" font-size="16" fill="#8ba0c4">Quickshell components — the pill, the panel, the animations. MouseArea, never PointerHandler.</text>
+
+  <rect x="64" y="316" width="1024" height="76" rx="14" fill="#131b2e" stroke="#6ee7b7"/>
+  <text x="92" y="352" font-size="20" font-weight="700" fill="#6ee7b7">backend</text>
+  <text x="92" y="378" font-size="16" fill="#8ba0c4">python3 poller — SSH, D-Bus, REST, sqlite. State goes in ~/.local/state, never the plugin dir.</text>
+
+  <rect x="64" y="408" width="1024" height="76" rx="14" fill="#131b2e" stroke="#7dd3fc"/>
+  <text x="92" y="444" font-size="20" font-weight="700" fill="#7dd3fc">Hyprland</text>
+  <text x="92" y="470" font-size="16" fill="#8ba0c4">Wayland compositor — layer shell, IPC, workspaces. The bar is a client like any other.</text>
+
+  <rect x="1128" y="132" width="408" height="352" rx="18" fill="#0f1424" stroke="#fbbf24"/>
+  <text x="1332" y="176" text-anchor="middle" font-size="20" font-weight="700" fill="#fbbf24">colors.toml</text>
+  <text x="1332" y="204" text-anchor="middle" font-size="16" fill="#8ba0c4">one theme palette,</text>
+  <text x="1332" y="226" text-anchor="middle" font-size="16" fill="#8ba0c4">every layer obeys it</text>
+  <g>
+    <rect x="1168" y="256" width="328" height="26" rx="8" fill="#7dd3fc"/>
+    <rect x="1168" y="292" width="328" height="26" rx="8" fill="#c4b5fd"/>
+    <rect x="1168" y="328" width="328" height="26" rx="8" fill="#6ee7b7"/>
+    <rect x="1168" y="364" width="328" height="26" rx="8" fill="#fbbf24"/>
+    <rect x="1168" y="400" width="328" height="26" rx="8" fill="#f9a8d4"/>
+  </g>
+  <text x="1332" y="458" text-anchor="middle" font-size="15" fill="#5a6b8c">hardcode a hex, break every theme</text>
+</g>
+<g stroke="#2b3550" stroke-width="2" stroke-dasharray="6 6">
+  <path d="M1088 170 H1128"/><path d="M1088 262 H1128"/><path d="M1088 354 H1128"/><path d="M1088 446 H1128"/>
+</g>
+<text x="800" y="524" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#4d5f85">hot-reload lies · deploy with a restart · verify with a screenshot, not a hope</text>
+</svg>

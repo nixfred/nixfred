@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="lt ld">
+<title id="lt">The compounding loop</title>
+<desc id="ld">A five stage loop: Fred describes intent, the AI collaborator builds, the plugin ships to the Omarchy bar, the bar reports back on the AI itself, and memory records the evidence so the next build starts smarter.</desc>
+<defs>
+<linearGradient id="lbg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0a0d16"/><stop offset="1" stop-color="#141026"/></linearGradient>
+</defs>
+<rect width="1600" height="440" rx="26" fill="url(#lbg)"/>
+<text x="800" y="62" text-anchor="middle" font-family="system-ui,sans-serif" font-size="26" font-weight="700" fill="#e6edf7">THE COMPOUNDING LOOP</text>
+<text x="800" y="94" text-anchor="middle" font-family="system-ui,sans-serif" font-size="17" fill="#7b8db1">The desktop measures the AI. The AI improves the desktop. Memory keeps score.</text>
+
+<g stroke="#31405f" stroke-width="3" fill="none">
+  <path d="M256 220 H392"/><path d="M552 220 H688"/><path d="M848 220 H984"/><path d="M1144 220 H1280"/>
+</g>
+<g fill="#4d5f85">
+  <path d="M392 220 l-16 -8 v16 z"/><path d="M688 220 l-16 -8 v16 z"/><path d="M984 220 l-16 -8 v16 z"/><path d="M1280 220 l-16 -8 v16 z"/>
+</g>
+<path d="M1400 268 v54 a20 20 0 0 1 -20 20 H220 a20 20 0 0 1 -20 -20 v-54" stroke="#3b2f5e" stroke-width="3" fill="none" stroke-dasharray="9 9"/>
+<path d="M200 268 l-8 16 h16 z" fill="#5b4a8c"/>
+<text x="800" y="374" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="#8878c4">evidence feeds the next intent — nothing starts from zero</text>
+
+<g font-family="system-ui,sans-serif" text-anchor="middle">
+  <g><rect x="104" y="164" width="192" height="112" rx="18" fill="#101728" stroke="#7dd3fc"/>
+     <text x="200" y="206" fill="#7dd3fc" font-size="20" font-weight="700">INTENT</text>
+     <text x="200" y="236" fill="#8ba0c4" font-size="15">&#8220;the bar should</text>
+     <text x="200" y="258" fill="#8ba0c4" font-size="15">show me X&#8221;</text></g>
+
+  <g><rect x="400" y="164" width="192" height="112" rx="18" fill="#101728" stroke="#c4b5fd"/>
+     <text x="496" y="206" fill="#c4b5fd" font-size="20" font-weight="700">BUILD</text>
+     <text x="496" y="236" fill="#8ba0c4" font-size="15">QML + backend,</text>
+     <text x="496" y="258" fill="#8ba0c4" font-size="15">tested in a VM</text></g>
+
+  <g><rect x="696" y="164" width="192" height="112" rx="18" fill="#101728" stroke="#6ee7b7"/>
+     <text x="792" y="206" fill="#6ee7b7" font-size="20" font-weight="700">SHIP</text>
+     <text x="792" y="236" fill="#8ba0c4" font-size="15">public repo,</text>
+     <text x="792" y="258" fill="#8ba0c4" font-size="15">live on the bar</text></g>
+
+  <g><rect x="992" y="164" width="192" height="112" rx="18" fill="#101728" stroke="#fbbf24"/>
+     <text x="1088" y="206" fill="#fbbf24" font-size="20" font-weight="700">MEASURE</text>
+     <text x="1088" y="236" fill="#8ba0c4" font-size="15">burn, agents,</text>
+     <text x="1088" y="258" fill="#8ba0c4" font-size="15">rate limits</text></g>
+
+  <g><rect x="1288" y="164" width="208" height="112" rx="18" fill="#101728" stroke="#f9a8d4"/>
+     <text x="1392" y="206" fill="#f9a8d4" font-size="20" font-weight="700">REMEMBER</text>
+     <text x="1392" y="236" fill="#8ba0c4" font-size="15">decisions, dead ends,</text>
+     <text x="1392" y="258" fill="#8ba0c4" font-size="15">and what worked</text></g>
+</g>
+</svg>
