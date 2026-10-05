@@ -23,6 +23,49 @@ Six entry points into what I've been building lately. Each links to its own sour
 | **[Infomarchy](https://github.com/nixfred/infomarchy)** | **Put the context in view.** AI sessions, activity and machine information on your wallpaper. |
 | **[Blip](https://github.com/nixfred/blip)** | **Messages meet Linux.** iMessage in the Omarchy bar, with your Mac acting as the gateway. |
 
+<!-- BEGIN PUBLIC CONTRIBUTIONS -->
+## Open source contributions
+
+[![23 external public projects; 125 including my repositories. Verified 2026-10-05. Static contribution snapshot.](assets/contributions.svg)](CONTRIBUTIONS.md)
+
+**23 public projects outside `nixfred/` · 125 including my own repositories · 19 external projects with merged PRs.**
+
+Counted from GitHub-credited commits and merged pull requests since October 2015. Ownership, forks alone, open requests, issues and reviews do not qualify. Organization-owned repositories count as outside my personal namespace. **[Full inventory, evidence and refresh method →](CONTRIBUTIONS.md)**
+
+<details>
+<summary>See all 23 external contributor projects</summary>
+
+| Public project | Verified evidence |
+| :--- | :--- |
+| [autonomous-ai/autonomous-os](https://github.com/autonomous-ai/autonomous-os) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/autonomous-ai/autonomous-os/pull/529) (1) |
+| [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31) |
+| [calebhat/omarchy-weather](https://github.com/calebhat/omarchy-weather) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/calebhat/omarchy-weather/pull/2) (1) |
+| [csfh/atmos](https://github.com/csfh/atmos) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/csfh/atmos/pull/13) (7) |
+| [Different-Minds/.github](https://github.com/Different-Minds/.github) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) |
+| [DonnieFi/OmarPlugs](https://github.com/DonnieFi/OmarPlugs) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/DonnieFi/OmarPlugs/pull/5) (5) |
+| [duketopceo/dayflow-linux](https://github.com/duketopceo/dayflow-linux) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31) · [Merged PR](https://github.com/duketopceo/dayflow-linux/pull/51) (7) |
+| [eduardodallecort/omarchy-weather-radar](https://github.com/eduardodallecort/omarchy-weather-radar) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/eduardodallecort/omarchy-weather-radar/pull/10) (1) |
+| [fross100/omaplug](https://github.com/fross100/omaplug) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/fross100/omaplug/pull/18) (2) |
+| [gardnmi/omacontra](https://github.com/gardnmi/omacontra) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/gardnmi/omacontra/pull/1) (1) |
+| [gladimdim/omarchy-config-sync-plugin](https://github.com/gladimdim/omarchy-config-sync-plugin) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/gladimdim/omarchy-config-sync-plugin/pull/20) (3) |
+| [GreyforgeLabs/slopbrake](https://github.com/GreyforgeLabs/slopbrake) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/GreyforgeLabs/slopbrake/pull/1) (3) |
+| [jankeesvw/omarchy-tesla](https://github.com/jankeesvw/omarchy-tesla) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/jankeesvw/omarchy-tesla/pull/7) (1) |
+| [jeremylanger/omaspotify](https://github.com/jeremylanger/omaspotify) · fork with merged PR | [Merged PR](https://github.com/jeremylanger/omaspotify/pull/10) (2) |
+| [lgse/strata](https://github.com/lgse/strata) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) |
+| [mtolhuys/fathom](https://github.com/mtolhuys/fathom) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/mtolhuys/fathom/pull/1) (4) |
+| [mtolhuys/omarchy-theme-manager](https://github.com/mtolhuys/omarchy-theme-manager) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/mtolhuys/omarchy-theme-manager/pull/1) (1) |
+| [ryuhzk/omarchy-server-status](https://github.com/ryuhzk/omarchy-server-status) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/ryuhzk/omarchy-server-status/pull/1) (1) |
+| [sam-blakeman/OmarchyIPTV](https://github.com/sam-blakeman/OmarchyIPTV) | [Merged PR](https://github.com/sam-blakeman/OmarchyIPTV/pull/1) (1) |
+| [sley-lang/sley](https://github.com/sley-lang/sley) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) |
+| [thefreshoffice/omarchy-speaker-calibrator](https://github.com/thefreshoffice/omarchy-speaker-calibrator) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/thefreshoffice/omarchy-speaker-calibrator/pull/14) (2) |
+| [thisisgm/flea](https://github.com/thisisgm/flea) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/thisisgm/flea/pull/22) (4) |
+| [wesleygrimes/omastorm](https://github.com/wesleygrimes/omastorm) | [Credited commits](https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30) · [Merged PR](https://github.com/wesleygrimes/omastorm/pull/6) (1) |
+
+</details>
+
+<sub>Public-only snapshot verified 2026-10-05 (UTC). Refreshed manually; this panel does not update itself.</sub>
+<!-- END PUBLIC CONTRIBUTIONS -->
+
 <img src="assets/desktop-chapter.svg" width="100%" alt="01 — The desktop. Small tools. A bigger workspace. Original illustration of connected desktop panels.">
 
 ## The desktop
