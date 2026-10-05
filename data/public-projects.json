@@ -1,0 +1,1315 @@
+{
+  "verified_on": "2026-10-05",
+  "source": "https://api.github.com/users/nixfred/repos?type=owner&per_page=100&sort=pushed",
+  "repositories": [
+    {
+      "name": "omaspotify",
+      "html_url": "https://github.com/nixfred/omaspotify",
+      "description": "Spotify in Quickshell—not Chromium. About 60 MB of RAM vs ~950 MB for the desktop client, with Omarchy themes, a built-in mini player, keyboard shortcuts, and Omasing lyrics.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-05T01:09:31Z",
+      "parent": "jeremylanger/omaspotify"
+    },
+    {
+      "name": "dayflow-linux",
+      "html_url": "https://github.com/nixfred/dayflow-linux",
+      "description": "Private, automatic work journal for Linux — a Dayflow (macOS) port. Local-first screen journal: timeline, standup, agent-session recaps, FTS5 search, forecasts. Omarchy panel or standalone CLI/TUI/MCP.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-05T00:51:11Z",
+      "parent": "duketopceo/dayflow-linux"
+    },
+    {
+      "name": "infomarchy",
+      "html_url": "https://github.com/nixfred/infomarchy",
+      "description": "Omarchy plugin: your wallpaper becomes a live, clickable information desk with every running AI agent (Claude Code, Codex, Grok, Ollama), 7-day heatmap, rate limits, recent prompts, machine stats. Theme-driven.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-05T00:47:12Z"
+    },
+    {
+      "name": "flea",
+      "html_url": "https://github.com/nixfred/flea",
+      "description": "A fast, keyboard-first file manager for Omarchy: Quickshell front end, Rust backend.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-05T00:23:32Z",
+      "parent": "thisisgm/flea"
+    },
+    {
+      "name": "firstmate",
+      "html_url": "https://github.com/nixfred/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-05T00:14:25Z",
+      "parent": "kunchenguid/firstmate"
+    },
+    {
+      "name": "blip",
+      "html_url": "https://github.com/nixfred/blip",
+      "description": "iMessage in the Omarchy bar. Read, send, groups, blue dots. Your Mac is the gateway, Linux is the client.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-05T00:03:41Z"
+    },
+    {
+      "name": "workspace-names",
+      "html_url": "https://github.com/nixfred/workspace-names",
+      "description": "Give numbered Hyprland workspaces a title in the Omarchy bar. Hover to see it, click to rename inline, a pill slides in on every switch. Numbers stay numbers.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T22:31:08Z"
+    },
+    {
+      "name": "lan-mouse",
+      "html_url": "https://github.com/nixfred/lan-mouse",
+      "description": "mouse & keyboard sharing via LAN",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-04T22:13:15Z",
+      "parent": "feschber/lan-mouse"
+    },
+    {
+      "name": "Glide",
+      "html_url": "https://github.com/nixfred/Glide",
+      "description": "One desk. Every machine. LAN mouse and keyboard sharing for Omarchy, powered by Lan Mouse.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T22:11:40Z"
+    },
+    {
+      "name": "pulse",
+      "html_url": "https://github.com/nixfred/pulse",
+      "description": "One Omarchy bar icon that always shows the thing holding your machine back. CPU, RAM, disk and network merged into a single widget with a shared severity model.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T21:46:03Z"
+    },
+    {
+      "name": "lamplight",
+      "html_url": "https://github.com/nixfred/lamplight",
+      "description": "Drive a fleet of Govee lights from Omarchy. They always wear the active theme; no colour picker by design. Bar plugin + local-UDP CLI, no cloud.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T21:45:35Z"
+    },
+    {
+      "name": "slopbrake",
+      "html_url": "https://github.com/nixfred/slopbrake",
+      "description": "Brakes for the software factory: deterministic checks, a fresh-context reviewer that commits its fixes, and one-way-door triage for coding agents. Built on Matt Pocock's skills. Every rule proven to bite.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-04T19:32:09Z",
+      "parent": "GreyforgeLabs/slopbrake"
+    },
+    {
+      "name": "omarchy.nixfred.com",
+      "html_url": "https://github.com/nixfred/omarchy.nixfred.com",
+      "description": "The Omarchy plugin catalogue behind omarchy.nixfred.com - 30 bar plugins, a theme and the tools around them, with marketplace listing status read live from the official registry",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T12:17:58Z"
+    },
+    {
+      "name": "burnbar",
+      "html_url": "https://github.com/nixfred/burnbar",
+      "description": "Claude and Codex token-spend heat map for the Omarchy bar",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T08:28:15Z"
+    },
+    {
+      "name": "omarchy-local-intelligence",
+      "html_url": "https://github.com/nixfred/omarchy-local-intelligence",
+      "description": "Omarchy bar widget for monitoring Ollama activity and controlling local models",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T05:35:03Z"
+    },
+    {
+      "name": "omarchy-server-status",
+      "html_url": "https://github.com/nixfred/omarchy-server-status",
+      "description": "Agentless server & Docker monitoring for the Omarchy bar — one read-only SSH round trip, nothing installed on your servers",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-04T05:21:48Z",
+      "parent": "ryuhzk/omarchy-server-status"
+    },
+    {
+      "name": "imprint",
+      "html_url": "https://github.com/nixfred/imprint",
+      "description": "Stamp one Omarchy machine onto another.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T04:57:54Z"
+    },
+    {
+      "name": "omarchy-doctor",
+      "html_url": "https://github.com/nixfred/omarchy-doctor",
+      "description": "Animated system diagnostics bar plugin for Omarchy: live hardware graphics, evidence-backed findings, Fix with agent hand-off and fix history",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T02:46:11Z"
+    },
+    {
+      "name": "sandman",
+      "html_url": "https://github.com/nixfred/sandman",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-03T15:51:01Z",
+      "parent": "lgse/sandman"
+    },
+    {
+      "name": "omaplug",
+      "html_url": "https://github.com/nixfred/omaplug",
+      "description": "Standalone Omarchy plugin manager: enable/disable, update, install, and remove plugins",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-02T23:31:25Z",
+      "parent": "fross100/omaplug"
+    },
+    {
+      "name": "nixfredOS",
+      "html_url": "https://github.com/nixfred/nixfredOS",
+      "description": "nixfredOS: your AI, your context, your operating system. Fork of LifeOS (MIT).",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-02T19:50:55Z",
+      "parent": "danielmiessler/LifeOS"
+    },
+    {
+      "name": "openharness",
+      "html_url": "https://github.com/nixfred/openharness",
+      "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-02T16:11:24Z",
+      "parent": "autonomous-ai/openharness"
+    },
+    {
+      "name": "footswitch",
+      "html_url": "https://github.com/nixfred/footswitch",
+      "description": "Elgato Stream Deck Pedal wired to Omarchy. Press and release are separate, so hold-to-talk actually works. Dictation, light control, workspace switching.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-02T03:13:06Z"
+    },
+    {
+      "name": "menu.bar.overload",
+      "html_url": "https://github.com/nixfred/menu.bar.overload",
+      "description": "The Omarchy bar with an endless dock-magnified carousel on each side",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-02T01:27:31Z"
+    },
+    {
+      "name": "omarchy-elgato-control",
+      "html_url": "https://github.com/nixfred/omarchy-elgato-control",
+      "description": "Native Omarchy controls for Elgato Stream Deck and Key Lights on Linux",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-10-01T22:43:19Z",
+      "parent": "amitcpatel/omarchy-elgato-control"
+    },
+    {
+      "name": "audio.pulse.omarchy",
+      "html_url": "https://github.com/nixfred/audio.pulse.omarchy",
+      "description": "Audio Pulse: a glowing speaker for the Omarchy bar, sibling of RAM Pulse, CPU Pulse and Net Pulse.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-30T14:26:00Z"
+    },
+    {
+      "name": "strata",
+      "html_url": "https://github.com/nixfred/strata",
+      "description": "A fast, keyboard-first file manager for Linux",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-30T12:58:05Z",
+      "parent": "lgse/strata"
+    },
+    {
+      "name": "lmf4.1",
+      "html_url": "https://github.com/nixfred/lmf4.1",
+      "description": "LMF4.1 — Larry Memory Framework v4. Persistent memory for Claude Code.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-30T11:41:15Z"
+    },
+    {
+      "name": "nixbash",
+      "html_url": "https://github.com/nixfred/nixbash",
+      "description": "Fast, clean bash environment for Linux servers. One command setup.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-30T03:56:32Z"
+    },
+    {
+      "name": "autonomous-os",
+      "html_url": "https://github.com/nixfred/autonomous-os",
+      "description": "The open-source operating system for robots — install it and your robot comes alive",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-29T06:23:47Z",
+      "parent": "autonomous-ai/autonomous-os"
+    },
+    {
+      "name": "MeetingNotes",
+      "html_url": "https://github.com/nixfred/MeetingNotes",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-29T03:29:55Z",
+      "parent": "dbbaskette/MeetingNotes"
+    },
+    {
+      "name": "filter",
+      "html_url": "https://github.com/nixfred/filter",
+      "description": "The Great Filter: build a galaxy, seed it with civilizations, and watch almost all of them disappear. An interactive Fermi paradox simulator for filter.nixfred.com",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-29T03:29:44Z"
+    },
+    {
+      "name": "calc.nixfred.com",
+      "html_url": "https://github.com/nixfred/calc.nixfred.com",
+      "description": "Field calculators for IT infrastructure conversations. Live at calc.nixfred.com.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-29T03:29:24Z"
+    },
+    {
+      "name": "galaxy.nixfred.com",
+      "html_url": "https://github.com/nixfred/galaxy.nixfred.com",
+      "description": "NIXFRED GALAXY: every project, one connected system. An interactive Three.js star map of Fred Nix's complete body of work, built gate by gate by an AI collaborator as a public showcase of disciplined CI/CD.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-29T03:29:22Z"
+    },
+    {
+      "name": "ghostpod",
+      "html_url": "https://github.com/nixfred/ghostpod",
+      "description": "Self-hosted browser terminal with per-session ephemeral containers, Tailscale/LAN TLS, and mobile support",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-29T02:17:32Z",
+      "parent": "Monear/ghostpod"
+    },
+    {
+      "name": "omarchy",
+      "html_url": "https://github.com/nixfred/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-28T21:27:07Z",
+      "parent": "omacom/omarchy"
+    },
+    {
+      "name": "atmos",
+      "html_url": "https://github.com/nixfred/atmos",
+      "description": "Atmos: standalone Quickshell preferences for Omarchy",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-28T21:14:58Z",
+      "parent": "csfh/atmos"
+    },
+    {
+      "name": "plonk",
+      "html_url": "https://github.com/nixfred/plonk",
+      "description": "Packs occupied numeric Hyprland workspaces into 1…N as gaps appear, preserving order, tiling, monitor placement, and focus.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-28T21:05:23Z"
+    },
+    {
+      "name": "shipyard",
+      "html_url": "https://github.com/nixfred/shipyard",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T21:16:01Z"
+    },
+    {
+      "name": "hourglass",
+      "html_url": "https://github.com/nixfred/hourglass",
+      "description": "Screen time for Omarchy: per-app focus ribbon, ring, 7-day stack, stretch nudge",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T21:15:46Z"
+    },
+    {
+      "name": "omarchy-config-sync-plugin",
+      "html_url": "https://github.com/nixfred/omarchy-config-sync-plugin",
+      "description": "A plugin for Omarchy Linux to sync all of your configs, shortcuts, plugins and other stuff.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-27T08:01:33Z",
+      "parent": "gladimdim/omarchy-config-sync-plugin"
+    },
+    {
+      "name": "dockyard.omarchy",
+      "html_url": "https://github.com/nixfred/dockyard.omarchy",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T06:11:25Z"
+    },
+    {
+      "name": "sentinel.omarchy",
+      "html_url": "https://github.com/nixfred/sentinel.omarchy",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T06:10:38Z"
+    },
+    {
+      "name": "tomato.omarchy",
+      "html_url": "https://github.com/nixfred/tomato.omarchy",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T06:03:55Z"
+    },
+    {
+      "name": "pingboard.omarchy",
+      "html_url": "https://github.com/nixfred/pingboard.omarchy",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T06:01:43Z"
+    },
+    {
+      "name": "daylight.omarchy",
+      "html_url": "https://github.com/nixfred/daylight.omarchy",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T05:59:55Z"
+    },
+    {
+      "name": "showoff.omarchy",
+      "html_url": "https://github.com/nixfred/showoff.omarchy",
+      "description": "Show Omarchy off to a Windows or Mac person. A standalone app that takes over the screen: glowing captions, live theme picking, real apps. Esc twice to stop.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-27T05:13:46Z"
+    },
+    {
+      "name": "LANarchy",
+      "html_url": "https://github.com/nixfred/LANarchy",
+      "description": "Lanarchy — Omarchy bar plugin for homelab map/list status (donnie.homelab-mesh)",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-26T22:04:00Z",
+      "parent": "DonnieFi/OmarPlugs"
+    },
+    {
+      "name": "apple-health-dashboard",
+      "html_url": "https://github.com/nixfred/apple-health-dashboard",
+      "description": "Self-hosted Apple Health dashboard for Health Auto Export — 13+ visualizations, recovery scoring, sleep prediction, illness early-warning. Single-container Bun + SQLite stack.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-26T21:02:05Z"
+    },
+    {
+      "name": "trackpad.pulse",
+      "html_url": "https://github.com/nixfred/trackpad.pulse",
+      "description": "Fine-grained, per-device trackpad controls and pointer-feel tuning for Omarchy.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-25T20:21:23Z",
+      "parent": "davefano/omarchy-trackpad-plus"
+    },
+    {
+      "name": "sley",
+      "html_url": "https://github.com/nixfred/sley",
+      "description": "Sley — a machine-native programming language: typed semantic state, exact roots, deterministic execution",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-25T02:43:04Z",
+      "parent": "sley-lang/sley"
+    },
+    {
+      "name": "omarchy-meeting-recorder",
+      "html_url": "https://github.com/nixfred/omarchy-meeting-recorder",
+      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-25T01:55:05Z",
+      "parent": "jankeesvw/omarchy-meeting-recorder"
+    },
+    {
+      "name": "fathom",
+      "html_url": "https://github.com/nixfred/fathom",
+      "description": "A depth-based Alt+Tab for Omarchy: every window as deep as it is old, every workspace at a glance, any theme.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-24T23:58:33Z",
+      "parent": "mtolhuys/fathom"
+    },
+    {
+      "name": "omacontra",
+      "html_url": "https://github.com/nixfred/omacontra",
+      "description": "Omacontra: standalone five-stage arcade boss rush for Linux and Hyprland",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-23T14:31:06Z",
+      "parent": "gardnmi/omacontra"
+    },
+    {
+      "name": "autocorrect.omarchy",
+      "html_url": "https://github.com/nixfred/autocorrect.omarchy",
+      "description": "Global real-time autocorrect for Omarchy (fcitx5 module, Backspace undo) — WIP",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-22T02:32:07Z"
+    },
+    {
+      "name": "claude-router",
+      "html_url": "https://github.com/nixfred/claude-router",
+      "description": "Intelligent model routing for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-22T02:23:17Z",
+      "parent": "bmersereau/claude-router"
+    },
+    {
+      "name": "omarchy-overwatch",
+      "html_url": "https://github.com/nixfred/omarchy-overwatch",
+      "description": "Omarchy Overwatch — configurable dark OSINT intelligence dashboard with interactive globe and multi-panel layout",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-21T21:02:28Z",
+      "parent": "smfworks/omarchy-overwatch"
+    },
+    {
+      "name": "omarchy-port-doctor",
+      "html_url": "https://github.com/nixfred/omarchy-port-doctor",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-21T20:21:14Z",
+      "parent": "Kb2uka/omarchy-port-doctor"
+    },
+    {
+      "name": "beam",
+      "html_url": "https://github.com/nixfred/beam",
+      "description": "Your Omarchy desktop on your iPad. Guided Sunshine and Moonlight setup, live status, and a native no-scroll control panel.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-20T15:53:51Z"
+    },
+    {
+      "name": "pr.hunter",
+      "html_url": "https://github.com/nixfred/pr.hunter",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-20T13:46:40Z"
+    },
+    {
+      "name": "omarchy-speaker-calibrator",
+      "html_url": "https://github.com/nixfred/omarchy-speaker-calibrator",
+      "description": "Measure your speakers with a microphone and generate a validated, protective parametric calibration for the Omarchy bar.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-19T04:31:37Z",
+      "parent": "thefreshoffice/omarchy-speaker-calibrator"
+    },
+    {
+      "name": "ram.plugin.omarchy",
+      "html_url": "https://github.com/nixfred/ram.plugin.omarchy",
+      "description": "RAM Pulse: an animated Omarchy memory widget with persistent history, swap and zram insight, and focus-only RAM hoarders",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-18T14:39:40Z"
+    },
+    {
+      "name": "omaguard",
+      "html_url": "https://github.com/nixfred/omaguard",
+      "description": "OmaGuard — Omarchy bar plugin: a shield that tracks config drift from a reference you accept, previews single-value restores, and quick-switches saved bar layouts.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-18T04:25:27Z"
+    },
+    {
+      "name": "claude-on-mac",
+      "html_url": "https://github.com/nixfred/claude-on-mac",
+      "description": "🍎 Teach your Claude Code to use the entire Apple ecosystem on macOS. Read Messages, Contacts, Calendar, Mail, Notes, Reminders. Send iMessage and Mail with airtight per-message consent.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-16T23:27:03Z"
+    },
+    {
+      "name": "omavoice",
+      "html_url": "https://github.com/nixfred/omavoice",
+      "description": "Voice recorder with live whisper.cpp transcription for Omarchy (GTK4, PipeWire)",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-16T23:24:06Z"
+    },
+    {
+      "name": "power-pulse",
+      "html_url": "https://github.com/nixfred/power-pulse",
+      "description": "Power Pulse: Omarchy battery widget as a glowing cell whose colour is its charge, the number inside it, atoms riding in while charging and out on battery, an hour-long power trace",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-16T13:34:40Z"
+    },
+    {
+      "name": "lightshow",
+      "html_url": "https://github.com/nixfred/lightshow",
+      "description": "Keyboard RGB control for MSI MysticLight laptops on Linux. GTK4 desktop app, 20 effects, live theme matching, day/night profiles. No vendor software, no Windows.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-16T01:46:07Z"
+    },
+    {
+      "name": "omarchy-tesla",
+      "html_url": "https://github.com/nixfred/omarchy-tesla",
+      "description": "Your Tesla in the Omarchy bar: where it is, how full it is, and how far that gets you. Without keeping the car awake.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-15T18:37:44Z",
+      "parent": "jankeesvw/omarchy-tesla"
+    },
+    {
+      "name": "omarchy-music",
+      "html_url": "https://github.com/nixfred/omarchy-music",
+      "description": "Omarchy community music player — music.nixfred.com",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-13T22:50:48Z"
+    },
+    {
+      "name": "sonomarchy",
+      "html_url": "https://github.com/nixfred/sonomarchy",
+      "description": "Every Sonos zone as a selectable Omarchy audio output — works on legacy Play:1/3/5, Playbar, Connect (no AirPlay needed)",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-13T14:24:57Z"
+    },
+    {
+      "name": "remnic",
+      "html_url": "https://github.com/nixfred/remnic",
+      "description": "Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-13T12:43:27Z",
+      "parent": "joshuaswarren/remnic"
+    },
+    {
+      "name": "omamail",
+      "html_url": "https://github.com/nixfred/omamail",
+      "description": "Omarchy mail plugin with Gmail, HEY and IMAP supports.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-13T10:10:56Z",
+      "parent": "huacnlee/omamail"
+    },
+    {
+      "name": "ram.speed.test",
+      "html_url": "https://github.com/nixfred/ram.speed.test",
+      "description": "RAM Speed Test for Omarchy: live memory read/write dials on the same gauge cluster as the built-in network and disk speed tests.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-13T04:35:18Z"
+    },
+    {
+      "name": "beatdeck.omarchy",
+      "html_url": "https://github.com/nixfred/beatdeck.omarchy",
+      "description": "Live audio spectrum and now-playing cockpit for the Omarchy bar",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-13T04:01:41Z"
+    },
+    {
+      "name": "backup.omarchy",
+      "html_url": "https://github.com/nixfred/backup.omarchy",
+      "description": "Restic backup status, history, forecasting, and snapshot browser for the Omarchy bar",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-12T02:01:00Z"
+    },
+    {
+      "name": "omarchy-chronos",
+      "html_url": "https://github.com/nixfred/omarchy-chronos",
+      "description": "Omarchy bar clock whose calendar has a pulse — day-progress ring, drawn moon phase, shimmering year/life rails, staggered month grid. A fork of omarchy.clock.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-11T23:19:31Z"
+    },
+    {
+      "name": "omarchy-weather",
+      "html_url": "https://github.com/nixfred/omarchy-weather",
+      "description": "Omarchy weather pill: today's hourly, five-day forecast, live radar, and peek search. Replaces omarchy.weather.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-11T23:17:33Z",
+      "parent": "calebhat/omarchy-weather"
+    },
+    {
+      "name": "disk.pulse",
+      "html_url": "https://github.com/nixfred/disk.pulse",
+      "description": "Disk Pulse: a living storage die for the Omarchy bar. Free space, read/write throughput, drive busy time, I/O pressure, SMART health, btrfs allocation, seven-day history and focus-only disk hogs. Sibling of RAM, CPU and Net Pulse.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-10T15:48:12Z"
+    },
+    {
+      "name": "omanet.plugin.omarchy",
+      "html_url": "https://github.com/nixfred/omanet.plugin.omarchy",
+      "description": "A living network chip for the Omarchy bar: throughput, latency, Wi-Fi radio detail, interface settings, seven-day history and focus-only top talkers.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-10T01:30:50Z"
+    },
+    {
+      "name": "omacpu",
+      "html_url": "https://github.com/nixfred/omacpu",
+      "description": "CPU Pulse: animated processor dashboard for the Omarchy bar, sibling of RAM Pulse",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-10T01:30:36Z"
+    },
+    {
+      "name": "Pastey",
+      "html_url": "https://github.com/nixfred/Pastey",
+      "description": "Pastey: a clipboard that remembers — 200 searchable clips, real screenshot thumbnails, and the whole clip on hover, in a paperclip on the Omarchy bar",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-09T17:28:49Z"
+    },
+    {
+      "name": "omastorm",
+      "html_url": "https://github.com/nixfred/omastorm",
+      "description": "An Omarchy-native NEXRAD radar viewer built with Rust and Quickshell.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-09T14:24:10Z",
+      "parent": "wesleygrimes/omastorm"
+    },
+    {
+      "name": "omarchy-weather-radar",
+      "html_url": "https://github.com/nixfred/omarchy-weather-radar",
+      "description": "Live weather radar in the Omarchy bar, with a two-hour loop and optional storm alerts. No account, no API key.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-09T01:35:08Z",
+      "parent": "eduardodallecort/omarchy-weather-radar"
+    },
+    {
+      "name": "omarchy-pods",
+      "html_url": "https://github.com/nixfred/omarchy-pods",
+      "description": "AirPods in the Omarchy bar: per-pod and case battery, listening mode, adaptive noise level, conversation awareness, one-bud ANC and ear detection.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-08T15:15:38Z",
+      "parent": "thisisgm/omarchy-pods"
+    },
+    {
+      "name": "OmarchyIPTV",
+      "html_url": "https://github.com/nixfred/OmarchyIPTV",
+      "description": "Lightweight single-provider IPTV plugin for Omarchy (m3u/Xtream, EPG, favorites, fullscreen TV mode, external mpv)",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-08T01:12:26Z",
+      "parent": "sam-blakeman/OmarchyIPTV"
+    },
+    {
+      "name": "omarchy.nixfred.com.site",
+      "html_url": "https://github.com/nixfred/omarchy.nixfred.com.site",
+      "description": "Omarchy OS in the browser. A Hyprland session you can actually use.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-07T18:23:21Z"
+    },
+    {
+      "name": "rift",
+      "html_url": "https://github.com/nixfred/rift",
+      "description": "󰦛 Rift: native Omarchy bar plugin that remembers which apps belong on a workspace and brings them back in one click. No geometry. Hyprland tiles, Rift remembers.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-07T17:56:15Z"
+    },
+    {
+      "name": "omarchy-docker",
+      "html_url": "https://github.com/nixfred/omarchy-docker",
+      "description": "Docker containers and compose stacks on the Omarchy bar",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-07T17:42:55Z",
+      "parent": "Erruviel/omarchy-docker"
+    },
+    {
+      "name": "omarchy-notification-center",
+      "html_url": "https://github.com/nixfred/omarchy-notification-center",
+      "description": "Every notification you were sent, kept and readable again: a notification center for the Omarchy bar",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-07T17:40:45Z",
+      "parent": "jankeesvw/omarchy-notification-center"
+    },
+    {
+      "name": "omalaunch",
+      "html_url": "https://github.com/nixfred/omalaunch",
+      "description": "Extensible command launcher for Omarchy",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-07T17:40:43Z",
+      "parent": "DanielLemky/omalaunch"
+    },
+    {
+      "name": "omagotchi",
+      "html_url": "https://github.com/nixfred/omagotchi",
+      "description": "A 1-bit desktop pet for Omarchy: it lives in your bar, grows up, roams your screen and climbs your windows",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-07T17:39:15Z",
+      "parent": "SLcode777/omagotchi"
+    },
+    {
+      "name": "omarchy-beatbar",
+      "html_url": "https://github.com/nixfred/omarchy-beatbar",
+      "description": "A live, theme-reactive PipeWire spectrum visualizer for the Omarchy bar",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-07T17:39:14Z",
+      "parent": "ryrobes/omarchy-beatbar"
+    },
+    {
+      "name": "openwhispr",
+      "html_url": "https://github.com/nixfred/openwhispr",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-07T16:43:15Z",
+      "parent": "OpenWhispr/openwhispr"
+    },
+    {
+      "name": "clipsync",
+      "html_url": "https://github.com/nixfred/clipsync",
+      "description": "One clipboard across Linux, macOS, and iPhone. Copy on any of them, paste on Linux — text and photos, no keystroke, nothing on the phone. Wayland + SSH; the Mac is the gateway.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-07T15:12:38Z"
+    },
+    {
+      "name": "audio.plugin.omarchy",
+      "html_url": "https://github.com/nixfred/audio.plugin.omarchy",
+      "description": "Audio Pulse: a living audio chip for the Omarchy bar, sibling of RAM Pulse, CPU Pulse and Net Pulse.",
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2026-09-06T19:07:55Z"
+    },
+    {
+      "name": "omarchy-rclone",
+      "html_url": "https://github.com/nixfred/omarchy-rclone",
+      "description": null,
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-04T22:50:09Z",
+      "parent": "davidszp/omarchy-rclone"
+    },
+    {
+      "name": "wisp",
+      "html_url": "https://github.com/nixfred/wisp",
+      "description": "WhatsApp in the Omarchy bar. Unofficial client: pairs as a linked WhatsApp Web device via wacli/whatsmeow and mirrors to local SQLite.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-04T20:13:16Z"
+    },
+    {
+      "name": "nixfred",
+      "html_url": "https://github.com/nixfred/nixfred",
+      "description": "My GitHub profile README",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-04T16:56:26Z"
+    },
+    {
+      "name": "omarchy-theme-manager",
+      "html_url": "https://github.com/nixfred/omarchy-theme-manager",
+      "description": "Browse, install, and remove Omarchy themes from the native full-screen theme switcher.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-04T10:53:09Z",
+      "parent": "mtolhuys/omarchy-theme-manager"
+    },
+    {
+      "name": "omarchy-halo-bluetooth",
+      "html_url": "https://github.com/nixfred/omarchy-halo-bluetooth",
+      "description": "Omarchy Bluetooth panel with a live sonar hero, per-device battery halos and device-type glyphs",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-04T03:47:04Z"
+    },
+    {
+      "name": "serpantinum",
+      "html_url": "https://github.com/nixfred/serpantinum",
+      "description": "A shell for wayland compositors",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-02T06:46:31Z",
+      "parent": "ilyamiro/serpantinum"
+    },
+    {
+      "name": "remarchy",
+      "html_url": "https://github.com/nixfred/remarchy",
+      "description": "Remake your Omarchy machine from a file. Declarative machine manifest: save / diff / apply",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-02T01:52:14Z"
+    },
+    {
+      "name": "omarchy-mirror",
+      "html_url": "https://github.com/nixfred/omarchy-mirror",
+      "description": "Omarchy bar plugin: mirror your screen to a Google TV / Chromecast over the LAN (gpu-screen-recorder → live HLS → go-chromecast)",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-02T01:22:10Z"
+    },
+    {
+      "name": "mirador",
+      "html_url": "https://github.com/nixfred/mirador",
+      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-09-01T21:07:23Z",
+      "parent": "jchultarsky/mirador"
+    },
+    {
+      "name": "omarchy-calendar-agenda",
+      "html_url": "https://github.com/nixfred/omarchy-calendar-agenda",
+      "description": "A minimal Omarchy desktop agenda for one or more private HTTPS iCalendar feeds, with day filtering, monthly view, and event links.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-08-29T03:28:42Z",
+      "parent": "brm-src/omarchy-calendar-agenda"
+    },
+    {
+      "name": "omarchy-internet-latency",
+      "html_url": "https://github.com/nixfred/omarchy-internet-latency",
+      "description": "Live color-coded internet latency meter for the Omarchy top bar",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-29T03:28:19Z"
+    },
+    {
+      "name": "omarchy-boomux",
+      "html_url": "https://github.com/nixfred/omarchy-boomux",
+      "description": "Monitor coding agents and manage Boomux workspaces from the Omarchy bar",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-08-29T03:26:57Z",
+      "parent": "gardnmi/omarchy-boomux"
+    },
+    {
+      "name": "bluez",
+      "html_url": "https://github.com/nixfred/bluez",
+      "description": "Main BlueZ tree",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-08-29T02:21:55Z",
+      "parent": "bluez/bluez"
+    },
+    {
+      "name": "omarchy-2-haxorz-theme",
+      "html_url": "https://github.com/nixfred/omarchy-2-haxorz-theme",
+      "description": "A midnight-blue Omarchy Quattro theme with muted steel accents and warm terminal colors",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-28T02:10:37Z"
+    },
+    {
+      "name": "LMF3",
+      "html_url": "https://github.com/nixfred/LMF3",
+      "description": "Larry Memory Framework - Persistent memory for Claude Code",
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2026-08-25T02:09:00Z"
+    },
+    {
+      "name": "tools.nixfred.com",
+      "html_url": "https://github.com/nixfred/tools.nixfred.com",
+      "description": "tools.nixfred.com, a nixfred.com property. Built by the NixFred Site Factory.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-23T04:32:14Z"
+    },
+    {
+      "name": "tailscale.nixfred.com",
+      "html_url": "https://github.com/nixfred/tailscale.nixfred.com",
+      "description": "tailscale.nixfred.com, a nixfred.com property. Built by the NixFred Site Factory.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-23T04:32:11Z"
+    },
+    {
+      "name": "metasploit",
+      "html_url": "https://github.com/nixfred/metasploit",
+      "description": "Pentesting Learning Lab - Metasploit configs, vulnerable Docker targets, SET integration",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-23T04:27:57Z"
+    },
+    {
+      "name": "bashme",
+      "html_url": "https://github.com/nixfred/bashme",
+      "description": null,
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2026-08-23T04:23:08Z"
+    },
+    {
+      "name": "quantum",
+      "html_url": "https://github.com/nixfred/quantum",
+      "description": "World-class interactive quantum physics essay for enterprise IT, deployed at nixfred.com/quantum",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-23T03:01:30Z"
+    },
+    {
+      "name": "tmux_pick_a_project",
+      "html_url": "https://github.com/nixfred/tmux_pick_a_project",
+      "description": "Project-centric tmux session switcher: pick a project, jump into its session, survive reboots.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-23T03:01:10Z"
+    },
+    {
+      "name": "swish",
+      "html_url": "https://github.com/nixfred/swish",
+      "description": "macOS Cmd+Tab for Omarchy/Hyprland: hold SUPER, tab through glass workspace cards with live preview, release to switch. hyprshell + a small patch.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T15:10:34Z"
+    },
+    {
+      "name": "PwGen",
+      "html_url": "https://github.com/nixfred/PwGen",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T04:14:00Z"
+    },
+    {
+      "name": "fenix-dotfiles",
+      "html_url": "https://github.com/nixfred/fenix-dotfiles",
+      "description": "🏠 FeNix Dotfiles - Portable shell configurations with dynamic path detection | Part of the FeNix Phoenix System",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T04:11:16Z"
+    },
+    {
+      "name": "firebird-installer",
+      "html_url": "https://github.com/nixfred/firebird-installer",
+      "description": "Public installer for private firebird repository",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T04:08:43Z"
+    },
+    {
+      "name": "magicvm",
+      "html_url": "https://github.com/nixfred/magicvm",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T04:06:34Z"
+    },
+    {
+      "name": "ssh-tunnel-manager",
+      "html_url": "https://github.com/nixfred/ssh-tunnel-manager",
+      "description": "SSH Tunnel Manager - Automated reverse SSH tunnel creation and management using autossh",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T04:04:10Z"
+    },
+    {
+      "name": "docker-learner",
+      "html_url": "https://github.com/nixfred/docker-learner",
+      "description": "Interactive Docker training platform - Learn Docker through hands-on progressive modules",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T04:01:52Z"
+    },
+    {
+      "name": "lastpass-ssh-restore",
+      "html_url": "https://github.com/nixfred/lastpass-ssh-restore",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:59:24Z"
+    },
+    {
+      "name": "bitburner",
+      "html_url": "https://github.com/nixfred/bitburner",
+      "description": "Automate Your Bitburner Progression with Ease",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:57:26Z"
+    },
+    {
+      "name": "fenix",
+      "html_url": "https://github.com/nixfred/fenix",
+      "description": "Ephemeral Linux containers from your shell",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:54:47Z"
+    },
+    {
+      "name": "nextstep",
+      "html_url": "https://github.com/nixfred/nextstep",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:50:39Z"
+    },
+    {
+      "name": "ai",
+      "html_url": "https://github.com/nixfred/ai",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:48:12Z"
+    },
+    {
+      "name": "test.nixfred.com",
+      "html_url": "https://github.com/nixfred/test.nixfred.com",
+      "description": "test.nixfred.com, a nixfred.com property. Built by the NixFred Site Factory.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:38:48Z"
+    },
+    {
+      "name": "claude",
+      "html_url": "https://github.com/nixfred/claude",
+      "description": "A conversation you were never supposed to read. It noticed you. Third in the nixfred.com trilogy → nixfred.com/claude",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:30:07Z"
+    },
+    {
+      "name": "nixfred.cloud",
+      "html_url": "https://github.com/nixfred/nixfred.cloud",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:28:14Z"
+    },
+    {
+      "name": "masonnix.com",
+      "html_url": "https://github.com/nixfred/masonnix.com",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:26:02Z"
+    },
+    {
+      "name": "blamethe.tech",
+      "html_url": "https://github.com/nixfred/blamethe.tech",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:23:58Z"
+    },
+    {
+      "name": "nixfred.com.v5",
+      "html_url": "https://github.com/nixfred/nixfred.com.v5",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:21:58Z"
+    },
+    {
+      "name": "resume.nixfred.com.ninjaone",
+      "html_url": "https://github.com/nixfred/resume.nixfred.com.ninjaone",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:19:41Z"
+    },
+    {
+      "name": "sun.nixfred.com",
+      "html_url": "https://github.com/nixfred/sun.nixfred.com",
+      "description": "sun.nixfred.com, a nixfred.com property. Static site on Cloudflare Pages.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:14:02Z"
+    },
+    {
+      "name": "ghostdrive",
+      "html_url": "https://github.com/nixfred/ghostdrive",
+      "description": "The $129 Instagram AI USB Stick — for free. Portable offline AI with Ollama.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:08:50Z"
+    },
+    {
+      "name": "nutanix",
+      "html_url": "https://github.com/nixfred/nutanix",
+      "description": "A field guide to Nutanix, written for the people who have to explain it. Cert prep, customer-conversation language, whiteboard-ready diagrams.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:08:01Z"
+    },
+    {
+      "name": "nixnet",
+      "html_url": "https://github.com/nixfred/nixnet",
+      "description": "Git-backed host identity and continuity framework for Ubuntu Linux ecosystems",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:07:26Z"
+    },
+    {
+      "name": "blackbox-voice",
+      "html_url": "https://github.com/nixfred/blackbox-voice",
+      "description": "Personal ambient-recording pipeline. Sony IC Recorder → Mac → Linux host → Whisper.cpp → date-tree archive + nightly Claude summary. Audio never persists past transcription.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:06:06Z"
+    },
+    {
+      "name": "earth",
+      "html_url": "https://github.com/nixfred/earth",
+      "description": "One Day on Earth — 4.5 Billion Years in 24 Hours",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:05:10Z"
+    },
+    {
+      "name": "physics",
+      "html_url": "https://github.com/nixfred/physics",
+      "description": "Where Physics Starts Sweating — a cinematic interactive field guide to the frontiers of real physics. physics.nixfred.com",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-22T03:02:26Z"
+    },
+    {
+      "name": "rain.nixfred.com",
+      "html_url": "https://github.com/nixfred/rain.nixfred.com",
+      "description": "an experiment in pushing the limits of one-shot prompting",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-08-16T02:58:25Z",
+      "parent": "elder-plinius/FABLE-SHOWCASE"
+    },
+    {
+      "name": "x.api",
+      "html_url": "https://github.com/nixfred/x.api",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-06-06T03:10:04Z"
+    },
+    {
+      "name": "MacOS_Mark-XXXV",
+      "html_url": "https://github.com/nixfred/MacOS_Mark-XXXV",
+      "description": "macOS port of Mark XXXV — Voice-controlled JARVIS AI assistant powered by Gemini Live Audio. Controls your Mac with natural speech.",
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2026-04-24T14:29:07Z",
+      "parent": "FatihMakes/Mark-XXXIX-OR"
+    },
+    {
+      "name": "oiltrac",
+      "html_url": "https://github.com/nixfred/oiltrac",
+      "description": "OILTRAC — Global oil tanker intelligence dashboard. Globe.gl visualization, real-time AIS tracking, oil price monitoring, chokepoint analysis.",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-04-06T00:33:56Z"
+    },
+    {
+      "name": "fenix.v1",
+      "html_url": "https://github.com/nixfred/fenix.v1",
+      "description": "🔥 FeNix System - Digital Life as Code (DLaC) | Complete Infrastructure-as-Code solution for portable development environments | Rise from the ashes in <10 minutes",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-01-07T23:45:01Z"
+    },
+    {
+      "name": "nixvibes",
+      "html_url": "https://github.com/nixfred/nixvibes",
+      "description": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2025-09-28T03:35:21Z"
+    },
+    {
+      "name": "docker-claude-sandbox",
+      "html_url": "https://github.com/nixfred/docker-claude-sandbox",
+      "description": "One-command Docker container for safely testing Claude AI code",
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2025-08-02T21:19:33Z"
+    },
+    {
+      "name": "nixos-portable-config",
+      "html_url": "https://github.com/nixfred/nixos-portable-config",
+      "description": "🏗️ Portable, modular NixOS configuration with development environment and security hardening. Ready to deploy anywhere!",
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2025-07-31T23:01:39Z"
+    },
+    {
+      "name": "nixos",
+      "html_url": "https://github.com/nixfred/nixos",
+      "description": null,
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2025-07-31T22:00:07Z"
+    },
+    {
+      "name": "nixos-config",
+      "html_url": "https://github.com/nixfred/nixos-config",
+      "description": null,
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2025-01-01T03:16:17Z"
+    },
+    {
+      "name": "portainerstack1",
+      "html_url": "https://github.com/nixfred/portainerstack1",
+      "description": "First Portainer Stack from https://thenewstack.io/deploy-a-container-stack-in-portainer-from-a-github-repository/",
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2023-09-20T21:46:38Z"
+    },
+    {
+      "name": "gluware_network_import",
+      "html_url": "https://github.com/nixfred/gluware_network_import",
+      "description": null,
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2023-08-04T15:50:27Z"
+    },
+    {
+      "name": "clippy",
+      "html_url": "https://github.com/nixfred/clippy",
+      "description": null,
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2023-07-29T03:55:54Z"
+    },
+    {
+      "name": "magicvm.old",
+      "html_url": "https://github.com/nixfred/magicvm.old",
+      "description": "This creates a QEMU VM with prompts.",
+      "fork": false,
+      "archived": true,
+      "pushed_at": "2023-07-24T16:25:53Z"
+    },
+    {
+      "name": "osx-bootstrap",
+      "html_url": "https://github.com/nixfred/osx-bootstrap",
+      "description": "Bootstrap for new OSX install",
+      "fork": true,
+      "archived": true,
+      "pushed_at": "2015-09-19T18:05:40Z",
+      "parent": "jonasrosland/osx-bootstrap"
+    }
+  ]
+}
