@@ -11,6 +11,7 @@ DERIVED = {
     "omarchy-chronos": ("omacom/omarchy", "Extends the stock Omarchy clock"),
     "nixvibes": ("cloudflare/vibesdk", "Based on Cloudflare VibeSDK"),
 }
+UNLINKED_PARENTS = {"danielmiessler/LifeOS": "LifeOS (upstream project)"}
 SUMMARIES = {
     "shipyard": "Local Git commit activity in the Omarchy bar.",
     "dockyard.omarchy": "Docker container cockpit for Omarchy.",
@@ -50,8 +51,15 @@ SUMMARIES = {
 }
 
 
+def house_style(text):
+    """Profile house style: no em or en dashes, lowercase linux."""
+    for dash in (" \u2014 ", " \u2013 "):
+        text = text.replace(dash, ", ")
+    return text.replace("\u2014", "-").replace("\u2013", "-").replace("Linux", "linux")
+
+
 def cell(value):
-    return html.escape(str(value), quote=False).replace("|", "&#124;").replace("\n", " ")
+    return html.escape(house_style(str(value)), quote=False).replace("|", "&#124;").replace("\n", " ")
 
 
 def row(repo, fork_table=False):
@@ -68,9 +76,13 @@ def row(repo, fork_table=False):
     pushed = repo["pushed_at"][:10] if repo["pushed_at"] else "Not reported"
     if fork_table:
         parent = repo["parent"]
+        if parent in UNLINKED_PARENTS:
+            return f'| {link} | {UNLINKED_PARENTS[parent]} | {summary} | {pushed} |'
         return f'| {link} | [{cell(parent)}](https://github.com/{parent}) | {summary} | {pushed} |'
     if repo["fork"]:
         parent = repo["parent"]
+        if parent in UNLINKED_PARENTS:
+            return f'| {link} | {summary} Fork of {UNLINKED_PARENTS[parent]}. | {pushed} |'
         summary += f' Fork of [{cell(parent)}](https://github.com/{parent}).'
     return f'| {link} | {summary} | {pushed} |'
 

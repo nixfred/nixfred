@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "login": "nixfred",
-  "verified_at": "2026-10-05T05:45:21Z",
+  "verified_at": "2026-10-30T01:45:58Z",
   "coverage_from": "2015-10-29T18:15:10Z",
   "calendar_windows": [
     {
@@ -72,39 +72,51 @@
     },
     {
       "from": "2026-01-01T00:00:00Z",
-      "to": "2026-05-19T14:52:40Z",
+      "to": "2026-06-01T00:52:59Z",
       "repository_cap": 100,
       "cap_reached": false
     },
     {
-      "from": "2026-05-19T14:52:41Z",
-      "to": "2026-07-27T22:19:01Z",
+      "from": "2026-06-01T00:53:00Z",
+      "to": "2026-08-15T13:19:29Z",
       "repository_cap": 100,
       "cap_reached": false
     },
     {
-      "from": "2026-07-27T22:19:02Z",
-      "to": "2026-08-31T14:02:11Z",
+      "from": "2026-08-15T13:19:30Z",
+      "to": "2026-09-03T10:26:07Z",
       "repository_cap": 100,
       "cap_reached": false
     },
     {
-      "from": "2026-08-31T14:02:12Z",
-      "to": "2026-10-05T05:45:21Z",
+      "from": "2026-09-03T10:26:08Z",
+      "to": "2026-09-22T07:32:44Z",
+      "repository_cap": 100,
+      "cap_reached": false
+    },
+    {
+      "from": "2026-09-22T07:32:45Z",
+      "to": "2026-10-11T04:39:21Z",
+      "repository_cap": 100,
+      "cap_reached": false
+    },
+    {
+      "from": "2026-10-11T04:39:22Z",
+      "to": "2026-10-30T01:45:58Z",
       "repository_cap": 100,
       "cap_reached": false
     }
   ],
   "merged_pr_search": {
-    "query": "author:nixfred is:pr is:merged is:public merged:<=2026-10-05T05:45:21Z",
-    "total_results": 171,
-    "pages": 2,
+    "query": "author:nixfred is:pr is:merged is:public merged:<=2026-10-30T01:45:58Z",
+    "total_results": 201,
+    "pages": 3,
     "incomplete_results": false
   },
   "repositories": [
     {
-      "name": "autonomous-ai/autonomous-os",
-      "url": "https://github.com/autonomous-ai/autonomous-os",
+      "name": "autonomous-ai/lampOS",
+      "url": "https://github.com/autonomous-ai/lampOS",
       "owned": false,
       "archived": false,
       "is_fork": false,
@@ -115,7 +127,7 @@
         "2026-09-27"
       ],
       "merged_prs": [
-        "https://github.com/autonomous-ai/autonomous-os/pull/529"
+        "https://github.com/autonomous-ai/lampOS/pull/529"
       ]
     },
     {
@@ -139,11 +151,10 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
         "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
       ],
       "credited_commit_dates": [
-        "2026-08-26",
+        "2026-09-03",
         "2026-09-11"
       ],
       "merged_prs": [
@@ -160,6 +171,7 @@
         "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
       ],
       "credited_commit_dates": [
+        "2026-09-03",
         "2026-09-17"
       ],
       "merged_prs": [
@@ -170,6 +182,32 @@
         "https://github.com/csfh/atmos/pull/74",
         "https://github.com/csfh/atmos/pull/75",
         "https://github.com/csfh/atmos/pull/76"
+      ]
+    },
+    {
+      "name": "dbbaskette/MeetingNotes",
+      "url": "https://github.com/dbbaskette/MeetingNotes",
+      "owned": false,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-07"
+      ],
+      "merged_prs": [
+        "https://github.com/dbbaskette/MeetingNotes/pull/154",
+        "https://github.com/dbbaskette/MeetingNotes/pull/155",
+        "https://github.com/dbbaskette/MeetingNotes/pull/156",
+        "https://github.com/dbbaskette/MeetingNotes/pull/157",
+        "https://github.com/dbbaskette/MeetingNotes/pull/158",
+        "https://github.com/dbbaskette/MeetingNotes/pull/159",
+        "https://github.com/dbbaskette/MeetingNotes/pull/160",
+        "https://github.com/dbbaskette/MeetingNotes/pull/161",
+        "https://github.com/dbbaskette/MeetingNotes/pull/162",
+        "https://github.com/dbbaskette/MeetingNotes/pull/163",
+        "https://github.com/dbbaskette/MeetingNotes/pull/174"
       ]
     },
     {
@@ -289,6 +327,7 @@
         "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
       ],
       "credited_commit_dates": [
+        "2026-09-09",
         "2026-09-27"
       ],
       "merged_prs": [
@@ -314,6 +353,20 @@
         "https://github.com/GreyforgeLabs/slopbrake/pull/2",
         "https://github.com/GreyforgeLabs/slopbrake/pull/3"
       ]
+    },
+    {
+      "name": "HurleyUS/omadesign",
+      "url": "https://github.com/HurleyUS/omadesign",
+      "owned": false,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-12"
+      ],
+      "merged_prs": []
     },
     {
       "name": "jankeesvw/omarchy-tesla",
@@ -345,6 +398,22 @@
       ]
     },
     {
+      "name": "lgse/sandman",
+      "url": "https://github.com/lgse/sandman",
+      "owned": false,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-03"
+      ],
+      "merged_prs": [
+        "https://github.com/lgse/sandman/pull/15"
+      ]
+    },
+    {
       "name": "lgse/strata",
       "url": "https://github.com/lgse/strata",
       "owned": false,
@@ -357,6 +426,27 @@
         "2026-09-09"
       ],
       "merged_prs": []
+    },
+    {
+      "name": "marcho78/ubernotebook",
+      "url": "https://github.com/marcho78/ubernotebook",
+      "owned": false,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-13"
+      ],
+      "merged_prs": [
+        "https://github.com/marcho78/ubernotebook/pull/2",
+        "https://github.com/marcho78/ubernotebook/pull/3",
+        "https://github.com/marcho78/ubernotebook/pull/4",
+        "https://github.com/marcho78/ubernotebook/pull/5",
+        "https://github.com/marcho78/ubernotebook/pull/6",
+        "https://github.com/marcho78/ubernotebook/pull/7"
+      ]
     },
     {
       "name": "mtolhuys/fathom",
@@ -448,10 +538,13 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-30"
+        "2026-09-20",
+        "2026-09-30",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -476,10 +569,13 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-11"
+        "2026-09-03",
+        "2026-09-11",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -506,10 +602,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-20"
+        "2026-09-20",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -520,10 +618,13 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-13"
+        "2026-09-03",
+        "2026-09-13",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -584,12 +685,31 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-08-31",
-        "2026-10-04"
+        "2026-09-03",
+        "2026-09-22",
+        "2026-10-09",
+        "2026-10-28"
+      ],
+      "merged_prs": [
+        "https://github.com/nixfred/blip/pull/141",
+        "https://github.com/nixfred/blip/pull/142"
+      ]
+    },
+    {
+      "name": "nixfred/blip.technology",
+      "url": "https://github.com/nixfred/blip.technology",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-28"
       ],
       "merged_prs": []
     },
@@ -600,14 +720,19 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-10-04"
+        "2026-09-03",
+        "2026-09-20",
+        "2026-10-08",
+        "2026-10-28"
       ],
       "merged_prs": [
         "https://github.com/nixfred/burnbar/pull/1",
-        "https://github.com/nixfred/burnbar/pull/6"
+        "https://github.com/nixfred/burnbar/pull/6",
+        "https://github.com/nixfred/burnbar/pull/7"
       ]
     },
     {
@@ -700,10 +825,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-07"
+        "2026-09-07",
+        "2026-10-10"
       ],
       "merged_prs": []
     },
@@ -714,10 +841,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -760,10 +889,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -851,6 +982,7 @@
       "credited_commit_dates": [
         "2026-07-11",
         "2026-08-27",
+        "2026-09-07",
         "2026-09-28"
       ],
       "merged_prs": [
@@ -890,7 +1022,7 @@
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-10-01"
+        "2026-10-09"
       ],
       "merged_prs": []
     },
@@ -940,10 +1072,13 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-10-04"
+        "2026-09-22",
+        "2026-10-04",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -962,16 +1097,33 @@
       "merged_prs": []
     },
     {
+      "name": "nixfred/herdr-attention-spaces",
+      "url": "https://github.com/nixfred/herdr-attention-spaces",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-09-18",
+        "2026-10-10"
+      ],
+      "merged_prs": []
+    },
+    {
       "name": "nixfred/hourglass",
       "url": "https://github.com/nixfred/hourglass",
       "owned": true,
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-10-10",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -982,9 +1134,11 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
+        "2026-09-15",
         "2026-10-04"
       ],
       "merged_prs": []
@@ -996,12 +1150,14 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-08-30",
-        "2026-10-04"
+        "2026-09-03",
+        "2026-09-22",
+        "2026-10-10",
+        "2026-10-27"
       ],
       "merged_prs": [
         "https://github.com/nixfred/infomarchy/pull/1",
@@ -1017,6 +1173,20 @@
       ]
     },
     {
+      "name": "nixfred/infomarchy.nixfred.com",
+      "url": "https://github.com/nixfred/infomarchy.nixfred.com",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-28"
+      ],
+      "merged_prs": []
+    },
+    {
       "name": "nixfred/lamplight",
       "url": "https://github.com/nixfred/lamplight",
       "owned": true,
@@ -1026,11 +1196,44 @@
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-10-04"
+        "2026-10-06",
+        "2026-10-19"
       ],
       "merged_prs": [
         "https://github.com/nixfred/lamplight/pull/2"
       ]
+    },
+    {
+      "name": "nixfred/larry.status",
+      "url": "https://github.com/nixfred/larry.status",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-08-28",
+        "2026-10-10"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/larrylamp.omarchy",
+      "url": "https://github.com/nixfred/larrylamp.omarchy",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-09-27",
+        "2026-10-26"
+      ],
+      "merged_prs": []
     },
     {
       "name": "nixfred/lastpass-ssh-restore",
@@ -1141,12 +1344,10 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-02-01&to=2026-02-28",
         "https://github.com/nixfred?tab=overview&from=2026-05-01&to=2026-05-31",
         "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31"
       ],
       "credited_commit_dates": [
-        "2026-02-04",
         "2026-05-25",
         "2026-08-21"
       ],
@@ -1163,10 +1364,13 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-10-01"
+        "2026-09-09",
+        "2026-10-01",
+        "2026-10-20"
       ],
       "merged_prs": []
     },
@@ -1187,6 +1391,35 @@
       "merged_prs": [
         "https://github.com/nixfred/metasploit/pull/1"
       ]
+    },
+    {
+      "name": "nixfred/mobs",
+      "url": "https://github.com/nixfred/mobs",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-11",
+        "2026-10-14"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/murder-train",
+      "url": "https://github.com/nixfred/murder-train",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-23"
+      ],
+      "merged_prs": []
     },
     {
       "name": "nixfred/nextstep",
@@ -1219,6 +1452,7 @@
       ],
       "credited_commit_dates": [
         "2026-04-08",
+        "2026-08-02",
         "2026-08-27",
         "2026-09-29"
       ],
@@ -1241,12 +1475,14 @@
         "https://github.com/nixfred?tab=overview&from=2025-08-01&to=2025-08-31",
         "https://github.com/nixfred?tab=overview&from=2026-05-01&to=2026-05-31",
         "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
         "2025-08-13",
         "2026-05-16",
         "2026-08-21",
+        "2026-09-04",
         "2026-10-05"
       ],
       "merged_prs": [
@@ -1265,7 +1501,6 @@
         "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31"
       ],
       "credited_commit_dates": [
-        "2026-05-17",
         "2026-05-24",
         "2026-08-21"
       ],
@@ -1286,6 +1521,20 @@
         "2026-08-21"
       ],
       "merged_prs": []
+    },
+    {
+      "name": "nixfred/nixfredOS",
+      "url": "https://github.com/nixfred/nixfredOS",
+      "owned": true,
+      "archived": false,
+      "is_fork": true,
+      "calendar_urls": [],
+      "credited_commit_dates": [],
+      "merged_prs": [
+        "https://github.com/nixfred/nixfredOS/pull/1",
+        "https://github.com/nixfred/nixfredOS/pull/3",
+        "https://github.com/nixfred/nixfredOS/pull/4"
+      ]
     },
     {
       "name": "nixfred/nixnet",
@@ -1337,13 +1586,28 @@
       "name": "nixfred/nixvibes",
       "url": "https://github.com/nixfred/nixvibes",
       "owned": true,
-      "archived": false,
+      "archived": true,
       "is_fork": false,
       "calendar_urls": [
         "https://github.com/nixfred?tab=overview&from=2025-09-01&to=2025-09-30"
       ],
       "credited_commit_dates": [
         "2025-09-27"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/nixweb.app",
+      "url": "https://github.com/nixfred/nixweb.app",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-08",
+        "2026-10-12"
       ],
       "merged_prs": []
     },
@@ -1356,12 +1620,14 @@
       "calendar_urls": [
         "https://github.com/nixfred?tab=overview&from=2026-05-01&to=2026-05-31",
         "https://github.com/nixfred?tab=overview&from=2026-07-01&to=2026-07-31",
-        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31"
+        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
         "2026-05-03",
         "2026-07-01",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-10-22"
       ],
       "merged_prs": [
         "https://github.com/nixfred/nutanix/pull/1",
@@ -1407,10 +1673,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-14"
+        "2026-09-14",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -1449,10 +1717,27 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-11"
+        "2026-09-11",
+        "2026-10-19"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/omarchy-districts",
+      "url": "https://github.com/nixfred/omarchy-districts",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-08",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -1466,7 +1751,8 @@
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-10-05"
+        "2026-10-08",
+        "2026-10-19"
       ],
       "merged_prs": [
         "https://github.com/nixfred/omarchy-doctor/pull/2",
@@ -1480,10 +1766,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-03"
+        "2026-09-03",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -1508,11 +1796,11 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-08-28",
+        "2026-09-03",
         "2026-10-04"
       ],
       "merged_prs": []
@@ -1546,16 +1834,48 @@
       "merged_prs": []
     },
     {
+      "name": "nixfred/omarchy-mycelium",
+      "url": "https://github.com/nixfred/omarchy-mycelium",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-06",
+        "2026-10-19"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/omarchy-watchtower",
+      "url": "https://github.com/nixfred/omarchy-watchtower",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31"
+      ],
+      "credited_commit_dates": [
+        "2026-08-31"
+      ],
+      "merged_prs": []
+    },
+    {
       "name": "nixfred/omarchy.nixfred.com",
       "url": "https://github.com/nixfred/omarchy.nixfred.com",
       "owned": true,
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-09-18",
+        "2026-10-11",
+        "2026-10-12"
       ],
       "merged_prs": []
     },
@@ -1596,12 +1916,31 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-09"
+        "2026-09-03",
+        "2026-09-09",
+        "2026-10-19"
       ],
       "merged_prs": []
+    },
+    {
+      "name": "nixfred/path-recipe-box",
+      "url": "https://github.com/nixfred/path-recipe-box",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-20"
+      ],
+      "merged_prs": [
+        "https://github.com/nixfred/path-recipe-box/pull/1"
+      ]
     },
     {
       "name": "nixfred/physics",
@@ -1626,10 +1965,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -1641,11 +1982,14 @@
       "is_fork": false,
       "calendar_urls": [
         "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
         "2026-08-27",
-        "2026-09-28"
+        "2026-09-20",
+        "2026-09-28",
+        "2026-10-18"
       ],
       "merged_prs": [
         "https://github.com/nixfred/plonk/pull/1",
@@ -1673,10 +2017,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-16"
+        "2026-09-16",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -1687,10 +2033,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-20"
+        "2026-09-20",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -1701,10 +2049,13 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-10-04"
+        "2026-09-19",
+        "2026-10-04",
+        "2026-10-19"
       ],
       "merged_prs": [
         "https://github.com/nixfred/pulse/pull/8"
@@ -1799,6 +2150,7 @@
         "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31"
       ],
       "credited_commit_dates": [
+        "2026-08-03",
         "2026-08-21"
       ],
       "merged_prs": []
@@ -1867,16 +2219,63 @@
       ]
     },
     {
+      "name": "nixfred/ringer",
+      "url": "https://github.com/nixfred/ringer",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-10"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/screensaver.nixfred.omarchy",
+      "url": "https://github.com/nixfred/screensaver.nixfred.omarchy",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-09-06",
+        "2026-10-10"
+      ],
+      "merged_prs": []
+    },
+    {
       "name": "nixfred/sentinel.omarchy",
       "url": "https://github.com/nixfred/sentinel.omarchy",
       "owned": true,
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-19"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/shepr",
+      "url": "https://github.com/nixfred/shepr",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-11",
+        "2026-10-14"
       ],
       "merged_prs": []
     },
@@ -1887,10 +2286,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -1904,7 +2305,36 @@
         "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
       ],
       "credited_commit_dates": [
+        "2026-09-21",
         "2026-09-27"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/sigkill",
+      "url": "https://github.com/nixfred/sigkill",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-29"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/social-images",
+      "url": "https://github.com/nixfred/social-images",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-12"
       ],
       "merged_prs": []
     },
@@ -1971,6 +2401,20 @@
       "merged_prs": []
     },
     {
+      "name": "nixfred/system-alerts-imessage",
+      "url": "https://github.com/nixfred/system-alerts-imessage",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2025-12-01&to=2025-12-31"
+      ],
+      "credited_commit_dates": [
+        "2025-12-28"
+      ],
+      "merged_prs": []
+    },
+    {
       "name": "nixfred/tailscale.nixfred.com",
       "url": "https://github.com/nixfred/tailscale.nixfred.com",
       "owned": true,
@@ -1980,6 +2424,7 @@
         "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31"
       ],
       "credited_commit_dates": [
+        "2026-08-12",
         "2026-08-21"
       ],
       "merged_prs": []
@@ -2007,9 +2452,11 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-05-01&to=2026-05-31",
         "https://github.com/nixfred?tab=overview&from=2026-07-01&to=2026-07-31"
       ],
       "credited_commit_dates": [
+        "2026-05-30",
         "2026-07-01"
       ],
       "merged_prs": []
@@ -2021,10 +2468,12 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -2041,6 +2490,20 @@
       "credited_commit_dates": [
         "2026-07-27",
         "2026-08-21"
+      ],
+      "merged_prs": []
+    },
+    {
+      "name": "nixfred/webcam.face.unlock",
+      "url": "https://github.com/nixfred/webcam.face.unlock",
+      "owned": true,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-15"
       ],
       "merged_prs": []
     },
@@ -2066,11 +2529,14 @@
       "is_fork": false,
       "calendar_urls": [
         "https://github.com/nixfred?tab=overview&from=2026-08-01&to=2026-08-31",
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
         "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
         "2026-08-31",
-        "2026-10-04"
+        "2026-09-18",
+        "2026-10-04",
+        "2026-10-19"
       ],
       "merged_prs": []
     },
@@ -2081,12 +2547,33 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-05-01&to=2026-05-31",
         "https://github.com/nixfred?tab=overview&from=2026-06-01&to=2026-06-30"
       ],
       "credited_commit_dates": [
+        "2026-05-28",
         "2026-06-05"
       ],
       "merged_prs": []
+    },
+    {
+      "name": "parker-brown-family/terminal-delight",
+      "url": "https://github.com/parker-brown-family/terminal-delight",
+      "owned": false,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-14"
+      ],
+      "merged_prs": [
+        "https://github.com/parker-brown-family/terminal-delight/pull/935",
+        "https://github.com/parker-brown-family/terminal-delight/pull/936",
+        "https://github.com/parker-brown-family/terminal-delight/pull/937",
+        "https://github.com/parker-brown-family/terminal-delight/pull/938"
+      ]
     },
     {
       "name": "ryuhzk/omarchy-server-status",
@@ -2131,6 +2618,20 @@
       "merged_prs": []
     },
     {
+      "name": "tcballard/omarchy-plugin-familiar-desktop",
+      "url": "https://github.com/tcballard/omarchy-plugin-familiar-desktop",
+      "owned": false,
+      "archived": false,
+      "is_fork": false,
+      "calendar_urls": [
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
+      ],
+      "credited_commit_dates": [
+        "2026-10-12"
+      ],
+      "merged_prs": []
+    },
+    {
       "name": "thefreshoffice/omarchy-speaker-calibrator",
       "url": "https://github.com/thefreshoffice/omarchy-speaker-calibrator",
       "owned": false,
@@ -2154,15 +2655,19 @@
       "archived": false,
       "is_fork": false,
       "calendar_urls": [
-        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30"
+        "https://github.com/nixfred?tab=overview&from=2026-09-01&to=2026-09-30",
+        "https://github.com/nixfred?tab=overview&from=2026-10-01&to=2026-10-31"
       ],
       "credited_commit_dates": [
-        "2026-09-14"
+        "2026-09-03",
+        "2026-09-14",
+        "2026-10-05"
       ],
       "merged_prs": [
         "https://github.com/thisisgm/flea/pull/22",
         "https://github.com/thisisgm/flea/pull/23",
         "https://github.com/thisisgm/flea/pull/24",
+        "https://github.com/thisisgm/flea/pull/253",
         "https://github.com/thisisgm/flea/pull/35"
       ]
     },
